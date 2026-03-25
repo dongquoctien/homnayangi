@@ -2,1473 +2,4308 @@
   "menus": [
     {
       "id": 1,
-      "dishes": ["Tôm chiên", "Trứng luộc", "Thịt quay", "Bầu luộc", "Canh bầu nấu tôm"],
+      "dishes": [
+        "Tôm chiên",
+        "Trứng luộc",
+        "Thịt quay",
+        "Bầu luộc",
+        "Canh bầu nấu tôm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/27-1743351814363352500080.jpg"
     },
     {
       "id": 2,
-      "dishes": ["Rau cải luộc", "Cá rán", "Mực nướng sa tế", "Salad", "Đu đủ"],
+      "dishes": [
+        "Rau cải luộc",
+        "Cá rán",
+        "Mực nướng sa tế",
+        "Salad",
+        "Đu đủ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/dau-truong-vo-dam-lai-cuc-cang-voi-loat-mam-com-nhin-la-doi-phai-chang-bi-kip-giu-chong-la-day-2-17433518180141077594293.jpg"
     },
     {
       "id": 3,
-      "dishes": ["Cháo gà", "Gỏi gà", "Nộm rau cải"],
+      "dishes": [
+        "Cháo gà",
+        "Gỏi gà",
+        "Nộm rau cải"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/25-17433518174671883367866.jpg"
     },
     {
       "id": 4,
-      "dishes": ["Tôm rang thịt", "Đậu luộc", "Sườn nấu dọc mùng", "Cà muối", "Táo"],
+      "dishes": [
+        "Tôm rang thịt",
+        "Đậu luộc",
+        "Sườn nấu dọc mùng",
+        "Cà muối",
+        "Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/chi-vo-ban-viec-van-nau-duoc-loat-mam-com-gia-dinh-ngon-xinh-xin-dan-mang-inbox-am-am-xin-bi-quyet-174335181706765054295.jpg"
     },
     {
       "id": 5,
-      "dishes": ["Cá chiên", "Thịt bò xào", "Canh bò cà chua", "Nộm rau muống", "Kim chi", "Dưa hấu"],
+      "dishes": [
+        "Cá chiên",
+        "Thịt bò xào",
+        "Canh bò cà chua",
+        "Nộm rau muống",
+        "Kim chi",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/dau-truong-vo-dam-lai-cuc-cang-voi-loat-mam-com-nhin-la-doi-phai-chang-bi-kip-giu-chong-la-day-174335181653366100197.jpg"
     },
     {
       "id": 6,
-      "dishes": ["Cá kho thơm", "Canh cải nấu mọc", "Bầu luộc", "Ổi hồng"],
+      "dishes": [
+        "Cá kho thơm",
+        "Canh cải nấu mọc",
+        "Bầu luộc",
+        "Ổi hồng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-17-17433518157661437996748.jpg"
     },
     {
       "id": 7,
-      "dishes": ["Canh cải thịt băm", "Cán chiên", "Thịt bò xào nấm", "Cà muối", "Nho tráng miệng"],
+      "dishes": [
+        "Canh cải thịt băm",
+        "Cán chiên",
+        "Thịt bò xào nấm",
+        "Cà muối",
+        "Nho tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/chi-vo-ban-viec-van-nau-duoc-loat-mam-com-gia-dinh-ngon-xinh-xin-dan-mang-inbox-am-am-xin-bi-quyet-2-17433518162141044324217.jpg"
     },
     {
       "id": 8,
-      "dishes": ["Đậu chiên mỡ hành", "Cá kho", "Canh chua", "Su su luộc", "Chuối"],
+      "dishes": [
+        "Đậu chiên mỡ hành",
+        "Cá kho",
+        "Canh chua",
+        "Su su luộc",
+        "Chuối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/dau-truong-vo-dam-lai-cuc-cang-voi-loat-mam-com-nhin-la-doi-phai-chang-bi-kip-giu-chong-la-day-3-1743351816748142525267.jpg"
     },
     {
       "id": 9,
-      "dishes": ["Canh thiên lý nấu mọc", "Rau lang luộc", "Thịt quay", "Xoài tráng miệng"],
+      "dishes": [
+        "Canh thiên lý nấu mọc",
+        "Rau lang luộc",
+        "Thịt quay",
+        "Xoài tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-15-17433518141832056008977.jpg"
     },
     {
       "id": 10,
-      "dishes": ["Lặc lày luộc", "Rau lang xào tỏi", "Gà hấp lá chanh", "Cà muối"],
+      "dishes": [
+        "Lặc lày luộc",
+        "Rau lang xào tỏi",
+        "Gà hấp lá chanh",
+        "Cà muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-14-1743351815114285020527.jpg"
     },
     {
       "id": 11,
-      "dishes": ["Ngô luộc", "Thịt kho tàu", "Cà tím xào", "Canh mướp", "Tôm rang"],
+      "dishes": [
+        "Ngô luộc",
+        "Thịt kho tàu",
+        "Cà tím xào",
+        "Canh mướp",
+        "Tôm rang"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-18-1743351814682746293470.jpg"
     },
     {
       "id": 12,
-      "dishes": ["Canh chua", "Mướp luộc", "Thịt quay", "Giá xào", "Cà muối"],
+      "dishes": [
+        "Canh chua",
+        "Mướp luộc",
+        "Thịt quay",
+        "Giá xào",
+        "Cà muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/goi-y-100-mam-com-gia-dinh-hang-ngay-bat-mat-va-giau-dinh-duong-bloganchoi-5-17433518153641975558345.jpg"
     },
     {
       "id": 13,
-      "dishes": ["Cà muối", "Nem rán", "Chả lá lốt", "Xôi tím", "Canh rau mướp"],
+      "dishes": [
+        "Cà muối",
+        "Nem rán",
+        "Chả lá lốt",
+        "Xôi tím",
+        "Canh rau mướp"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/goi-y-100-mam-com-gia-dinh-hang-ngay-bat-mat-va-giau-dinh-duong-bloganchoi-4-17433518155311862489125.jpg"
     },
     {
       "id": 14,
-      "dishes": ["Cove nhật xào", "Rau sống", "Mực nhồi thịt", "Canh chua", "Cá mối chiên", "Cam"],
+      "dishes": [
+        "Cove nhật xào",
+        "Rau sống",
+        "Mực nhồi thịt",
+        "Canh chua",
+        "Cá mối chiên",
+        "Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-20-1743351814947323623346.jpg"
     },
     {
       "id": 15,
-      "dishes": ["Đậu nấu chuối ốc", "Thịt bò xào", "Rau cải luộc nấm", "Nước rau luộc"],
+      "dishes": [
+        "Đậu nấu chuối ốc",
+        "Thịt bò xào",
+        "Rau cải luộc nấm",
+        "Nước rau luộc"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-16-17433518148141854469511.jpg"
     },
     {
       "id": 16,
-      "dishes": ["Canh rau ngót", "Dưa muối", "Chân giò luộc", "Lòng gà xào hoa điên điển", "Quả lê"],
+      "dishes": [
+        "Canh rau ngót",
+        "Dưa muối",
+        "Chân giò luộc",
+        "Lòng gà xào hoa điên điển",
+        "Quả lê"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-13-17433518159141716570245.jpg"
     },
     {
       "id": 17,
-      "dishes": ["Thịt gà rang", "Bánh tôm Hồ Tây", "Rau sống", "Canh xương", "Quả na"],
+      "dishes": [
+        "Thịt gà rang",
+        "Bánh tôm Hồ Tây",
+        "Rau sống",
+        "Canh xương",
+        "Quả na"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-19-17433518152481446756918.jpg"
     },
     {
       "id": 18,
-      "dishes": ["Tôm rang thịt", "Canh xương nấu rau củ", "Thiên lý xào", "Bí non luộc"],
+      "dishes": [
+        "Tôm rang thịt",
+        "Canh xương nấu rau củ",
+        "Thiên lý xào",
+        "Bí non luộc"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-12-17433518139721639823602.jpg"
     },
     {
       "id": 19,
-      "dishes": ["Nấm xào", "Đậu cove xào", "Cà muối", "Cơm đảo", "Cherry quả", "Chè dưỡng nhan"],
+      "dishes": [
+        "Nấm xào",
+        "Đậu cove xào",
+        "Cà muối",
+        "Cơm đảo",
+        "Cherry quả",
+        "Chè dưỡng nhan"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/2-17433515899621172413276.jpg"
     },
     {
       "id": 20,
-      "dishes": ["Xôi lạc", "Rau củ luộc chấm kho quẹt", "Dưa chuột", "Canh khoai nấu măng"],
+      "dishes": [
+        "Xôi lạc",
+        "Rau củ luộc chấm kho quẹt",
+        "Dưa chuột",
+        "Canh khoai nấu măng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/nhung-mam-com-ruc-ro-cua-co-gai-26-tuoi-co-10-nam-an-chay-truong-hanh-phuc-voi-niem-vui-nho-tu-can-bep-174335181455051177567.jpg"
     },
     {
       "id": 21,
-      "dishes": ["Đậu Hà Lan luộc", "Thịt rang cháy cạnh", "Thịt bò xào thơm", "Đậu nhồi thịt", "Quả đào"],
+      "dishes": [
+        "Đậu Hà Lan luộc",
+        "Thịt rang cháy cạnh",
+        "Thịt bò xào thơm",
+        "Đậu nhồi thịt",
+        "Quả đào"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/5-17433515891311011518538.jpg"
     },
     {
       "id": 22,
-      "dishes": ["Đậu cove xào thịt bò", "Kim chi", "Salad quả bơ", "Ức gà", "Cơm gạo lứt", "Ngũ cốc", "Táo"],
+      "dishes": [
+        "Đậu cove xào thịt bò",
+        "Kim chi",
+        "Salad quả bơ",
+        "Ức gà",
+        "Cơm gạo lứt",
+        "Ngũ cốc",
+        "Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/3-17433515903111676887363.jpg"
     },
     {
       "id": 23,
-      "dishes": ["Thịt bò xào đậu cove", "Canh đậu hũ non", "Cá rán", "Dưa chua muối"],
+      "dishes": [
+        "Thịt bò xào đậu cove",
+        "Canh đậu hũ non",
+        "Cá rán",
+        "Dưa chua muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/8-1743351589742174690133.jpg"
     },
     {
       "id": 24,
-      "dishes": ["Chả lá lốt", "Lòng heo luộc", "Canh rau củ nấu mọc", "Bầu xào thịt bò", "Rau sống"],
+      "dishes": [
+        "Chả lá lốt",
+        "Lòng heo luộc",
+        "Canh rau củ nấu mọc",
+        "Bầu xào thịt bò",
+        "Rau sống"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/4-17433515886961554022295.jpg"
     },
     {
       "id": 25,
-      "dishes": ["Cá chiên", "Măng tây xào tôm", "Mướp", "Canh xương nấu rau củ", "Quả quýt"],
+      "dishes": [
+        "Cá chiên",
+        "Măng tây xào tôm",
+        "Mướp",
+        "Canh xương nấu rau củ",
+        "Quả quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/dau-truong-vo-dam-lai-cuc-cang-voi-loat-mam-com-nhin-la-doi-phai-chang-bi-kip-giu-chong-la-day-4-1743362351775756357194.jpg"
     },
     {
       "id": 26,
-      "dishes": ["Canh bí nấu ngao", "Súp lơ xanh", "Lòng chiên", "Sườn xào chua ngọt"],
+      "dishes": [
+        "Canh bí nấu ngao",
+        "Súp lơ xanh",
+        "Lòng chiên",
+        "Sườn xào chua ngọt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-25-17433623511821147494097.jpg"
     },
     {
       "id": 27,
-      "dishes": ["Khô cá chiên", "Mực xào sa tế", "Cà tím nướng", "Rau dền luộc", "Nước luộc rau dền", "Cam"],
+      "dishes": [
+        "Khô cá chiên",
+        "Mực xào sa tế",
+        "Cà tím nướng",
+        "Rau dền luộc",
+        "Nước luộc rau dền",
+        "Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/goi-y-thuc-don-com-toi-30-ngay-vua-ngon-dep-lai-de-dang-1743362348675259988441.jpg"
     },
     {
       "id": 28,
-      "dishes": ["Canh mọc cà chua", "Canh rau ngót nấu thịt", "Sụn rang muối", "Bắp cải luộc", "Quả vải"],
+      "dishes": [
+        "Canh mọc cà chua",
+        "Canh rau ngót nấu thịt",
+        "Sụn rang muối",
+        "Bắp cải luộc",
+        "Quả vải"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-24-17433623481981043513814.jpg"
     },
     {
       "id": 29,
-      "dishes": ["Lòng heo luộc", "Canh hến nấu chua", "Mực xào dứa", "Súp lơ xanh", "Cà muối"],
+      "dishes": [
+        "Lòng heo luộc",
+        "Canh hến nấu chua",
+        "Mực xào dứa",
+        "Súp lơ xanh",
+        "Cà muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-26-17433628926611472110217.jpg"
     },
     {
       "id": 30,
-      "dishes": ["Sụn nấu dưa chua", "Đậu cove xào thịt bò", "Dưa chua", "Nấm kho"],
+      "dishes": [
+        "Sụn nấu dưa chua",
+        "Đậu cove xào thịt bò",
+        "Dưa chua",
+        "Nấm kho"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/3/30/unknown-21-1743362888389388869601.jpg"
     },
     {
       "id": 31,
-      "dishes": ["Đậu kho thịt", "Thịt bò xào rau muống", "Cà pháo"],
+      "dishes": [
+        "Đậu kho thịt",
+        "Thịt bò xào rau muống",
+        "Cà pháo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-28-16728446333012112994911.jpg"
     },
     {
       "id": 32,
-      "dishes": ["Cá sốt", "Cánh gà chiên mắm", "Trứng ốp", "Rau muống luộc", "Cà pháo", "Tráng miệng: Ngô, dâu tây"],
+      "dishes": [
+        "Cá sốt",
+        "Cánh gà chiên mắm",
+        "Trứng ốp",
+        "Rau muống luộc",
+        "Cà pháo",
+        "Tráng miệng: Ngô, dâu tây"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-29-16728446333661354724323.jpg"
     },
     {
       "id": 33,
-      "dishes": ["Cá nục chiên mắm tỏi", "Rau muống xào thịt bò", "Cà pháo"],
+      "dishes": [
+        "Cá nục chiên mắm tỏi",
+        "Rau muống xào thịt bò",
+        "Cà pháo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-27-16728446333972024706703.jpg"
     },
     {
       "id": 34,
-      "dishes": ["Cá chiên", "Thịt kho đậu", "Cánh gà chiên mắm", "Mướp xào giá đỗ", "Rau muống luộc", "Cà pháo"],
+      "dishes": [
+        "Cá chiên",
+        "Thịt kho đậu",
+        "Cánh gà chiên mắm",
+        "Mướp xào giá đỗ",
+        "Rau muống luộc",
+        "Cà pháo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-30-1672844633403770224258.jpg"
     },
     {
       "id": 35,
-      "dishes": ["Tôm rim", "Cá saba kho", "Bắp cải xào trứng", "Bắp cải luộc"],
+      "dishes": [
+        "Tôm rim",
+        "Cá saba kho",
+        "Bắp cải xào trứng",
+        "Bắp cải luộc"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-26-16728446334121159267590.jpg"
     },
     {
       "id": 36,
-      "dishes": ["Thịt luộc", "Nem rán", "Dạ dày xào dưa", "Canh rau cải", "Dưa leo dầm", "Tráng miệng: Chuối, kiwi"],
+      "dishes": [
+        "Thịt luộc",
+        "Nem rán",
+        "Dạ dày xào dưa",
+        "Canh rau cải",
+        "Dưa leo dầm",
+        "Tráng miệng: Chuối, kiwi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-25-16728446334221563246005.jpg"
     },
     {
       "id": 37,
-      "dishes": ["Chả lá lốt", "Măng hồi thịt", "Riêu cua", "Rau bí xào tỏi", "Cà pháo", "Tráng miệng: Nho, kiwi"],
+      "dishes": [
+        "Chả lá lốt",
+        "Măng hồi thịt",
+        "Riêu cua",
+        "Rau bí xào tỏi",
+        "Cà pháo",
+        "Tráng miệng: Nho, kiwi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-24-16728446334291408219913.jpg"
     },
     {
       "id": 38,
-      "dishes": ["Cá thu sốt cà chua", "Tép rang", "Canh cá nấu chua", "Thịt bò cuốn măng tây", "Đậu bắp luộc", "Tráng miệng: Táo"],
+      "dishes": [
+        "Cá thu sốt cà chua",
+        "Tép rang",
+        "Canh cá nấu chua",
+        "Thịt bò cuốn măng tây",
+        "Đậu bắp luộc",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-23-1672844633483127092749.jpg"
     },
     {
       "id": 39,
-      "dishes": ["Rau cải chíp luộc", "Đậu bắp luộc", "Kho quẹt", "Thịt bò nướng", "Cánh gà chiên nước mắm", "Canh rau muống", "Cơm cháy", "Cà muối", "Tráng miệng: Kiwi, nho, lê"],
+      "dishes": [
+        "Rau cải chíp luộc",
+        "Đậu bắp luộc",
+        "Kho quẹt",
+        "Thịt bò nướng",
+        "Cánh gà chiên nước mắm",
+        "Canh rau muống",
+        "Cơm cháy",
+        "Cà muối",
+        "Tráng miệng: Kiwi, nho, lê"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-22-1672844633495527611779.jpg"
     },
     {
       "id": 40,
-      "dishes": ["Đậu nhồi thịt chiên", "Thịt kho trứng", "Cánh gà chiên nước mắm", "Canh cá nấu chua", "Hoa quả tráng miệng"],
+      "dishes": [
+        "Đậu nhồi thịt chiên",
+        "Thịt kho trứng",
+        "Cánh gà chiên nước mắm",
+        "Canh cá nấu chua",
+        "Hoa quả tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-21-16728446335241997695910.jpg"
     },
     {
       "id": 41,
-      "dishes": ["Canh cá nấu chua", "Cá kho", "Thịt nướng", "Tràng luộc", "Rau sống"],
+      "dishes": [
+        "Canh cá nấu chua",
+        "Cá kho",
+        "Thịt nướng",
+        "Tràng luộc",
+        "Rau sống"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-20-16728446335421635379758.jpg"
     },
     {
       "id": 42,
-      "dishes": ["Rau càng cua xào thịt", "Cá nục kho", "Bắp cải luộc", "Tôm chiên", "Dưa leo, củ cải muối"],
+      "dishes": [
+        "Rau càng cua xào thịt",
+        "Cá nục kho",
+        "Bắp cải luộc",
+        "Tôm chiên",
+        "Dưa leo, củ cải muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-19-16728446335631334798566.jpg"
     },
     {
       "id": 43,
-      "dishes": ["Tôm rim", "Thịt xào bí đỏ", "Canh khoai"],
+      "dishes": [
+        "Tôm rim",
+        "Thịt xào bí đỏ",
+        "Canh khoai"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-18-16728446335751342265660.jpg"
     },
     {
       "id": 44,
-      "dishes": ["Đậu rồng chấm kho quẹt", "Rau càng cua xào thịt", "Canh cá nấu chua", "Cá nục kho dứa"],
+      "dishes": [
+        "Đậu rồng chấm kho quẹt",
+        "Rau càng cua xào thịt",
+        "Canh cá nấu chua",
+        "Cá nục kho dứa"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-17-16728446335881006678151.jpg"
     },
     {
       "id": 45,
-      "dishes": ["Bò sốt vang"],
+      "dishes": [
+        "Bò sốt vang"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-16-16728446335971507510081.jpg"
     },
     {
       "id": 46,
-      "dishes": ["Chả lụa kho nấm rơm", "Mực xào dưa", "Canh trứng cà chua đậu hũ", "Tráng miệng: Cam"],
+      "dishes": [
+        "Chả lụa kho nấm rơm",
+        "Mực xào dưa",
+        "Canh trứng cà chua đậu hũ",
+        "Tráng miệng: Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-15-1672844633606555879863.jpg"
     },
     {
       "id": 47,
-      "dishes": ["Cá diêu hồng nấu chua", "Súp lơ xào mộc nhĩ", "Đậu hũ chiên xối nước tương", "Tráng miệng: Táo"],
+      "dishes": [
+        "Cá diêu hồng nấu chua",
+        "Súp lơ xào mộc nhĩ",
+        "Đậu hũ chiên xối nước tương",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-14-167284463365666910951.jpg"
     },
     {
       "id": 48,
-      "dishes": ["Thịt băm sốt cà chua", "Rau cần xào thịt bò", "Canh su su hầm xương", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Thịt băm sốt cà chua",
+        "Rau cần xào thịt bò",
+        "Canh su su hầm xương",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-13-167284463368834072644.jpg"
     },
     {
       "id": 49,
-      "dishes": ["Hủ tiếu chay"],
+      "dishes": [
+        "Hủ tiếu chay"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-12-16728446336971972088039.jpg"
     },
     {
       "id": 50,
-      "dishes": ["Thịt xay hấp tôm, trứng, nấm hương", "Cải bẹ xào rau củ", "Canh mướp nấm kim châm, thịt xay", "Tráng miệng: Táo"],
+      "dishes": [
+        "Thịt xay hấp tôm, trứng, nấm hương",
+        "Cải bẹ xào rau củ",
+        "Canh mướp nấm kim châm, thịt xay",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-11-16728446337121207197462.jpg"
     },
     {
       "id": 51,
-      "dishes": ["Ức gà xào chua ngọt", "Cà tím xào tương", "Canh cải thìa mực viên", "Tráng miệng: Táo"],
+      "dishes": [
+        "Ức gà xào chua ngọt",
+        "Cà tím xào tương",
+        "Canh cải thìa mực viên",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-10-1672844633730125052014.jpg"
     },
     {
       "id": 52,
-      "dishes": ["Cá lóc phi lê kho thịt ba chỉ", "Canh chua rau muống nấu tôm", "Rau sống, củ quả", "Bánh su kem"],
+      "dishes": [
+        "Cá lóc phi lê kho thịt ba chỉ",
+        "Canh chua rau muống nấu tôm",
+        "Rau sống, củ quả",
+        "Bánh su kem"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-9-1672844633752625064836.jpg"
     },
     {
       "id": 53,
-      "dishes": ["Heo quay khìa nước tương", "Mướp xào", "Canh khoai tây thịt viên"],
+      "dishes": [
+        "Heo quay khìa nước tương",
+        "Mướp xào",
+        "Canh khoai tây thịt viên"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-8-1672844633760333157522.jpg"
     },
     {
       "id": 54,
-      "dishes": ["Cá sặc bướm chiên giòn chấm mắm me", "Đậu bắp xào tỏi", "Canh mồng tơi", "Tráng miệng: Cam"],
+      "dishes": [
+        "Cá sặc bướm chiên giòn chấm mắm me",
+        "Đậu bắp xào tỏi",
+        "Canh mồng tơi",
+        "Tráng miệng: Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-7-16728446337821341768000.jpg"
     },
     {
       "id": 55,
-      "dishes": ["Mỳ gà tiềm"],
+      "dishes": [
+        "Mỳ gà tiềm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-6-16728446338251614504630.jpg"
     },
     {
       "id": 56,
-      "dishes": ["Ba chỉ chiên nước mắm", "Cải xào giá", "Canh rau ngót thịt xay", "Kim chi cải thảo", "Tráng miệng: Quýt thái"],
+      "dishes": [
+        "Ba chỉ chiên nước mắm",
+        "Cải xào giá",
+        "Canh rau ngót thịt xay",
+        "Kim chi cải thảo",
+        "Tráng miệng: Quýt thái"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-5-1672844633834645242741.jpg"
     },
     {
       "id": 57,
-      "dishes": ["Cá cơm chiên giòn cuốn bánh tráng"],
+      "dishes": [
+        "Cá cơm chiên giòn cuốn bánh tráng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-4-16728446338501068155231.jpg"
     },
     {
       "id": 58,
-      "dishes": ["Lạp xưởng", "Bí bao tử xào", "Canh rong biển đậu hũ", "Trứng ngâm tương"],
+      "dishes": [
+        "Lạp xưởng",
+        "Bí bao tử xào",
+        "Canh rong biển đậu hũ",
+        "Trứng ngâm tương"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-3-167284463389773251492.jpg"
     },
     {
       "id": 59,
-      "dishes": ["Nui xào trứng bò"],
+      "dishes": [
+        "Nui xào trứng bò"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-2-1672844633907468648406.jpg"
     },
     {
       "id": 60,
-      "dishes": ["Canh chua nghêu", "Cá basa chiên sả ớt", "Khổ qua xào thịt bò", "Bạch tuộc hấp hành", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Canh chua nghêu",
+        "Cá basa chiên sả ớt",
+        "Khổ qua xào thịt bò",
+        "Bạch tuộc hấp hành",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2023/1/4/thuc-don-hang-ngay-1672844633937245947386.jpg"
     },
     {
       "id": 61,
-      "dishes": ["Thịt gà chiên nước mắm", "Thịt ba chỉ quay giòn bì", "Canh rau cải", "Củ cải muối", "Tráng miệng: Quất ngọt"],
+      "dishes": [
+        "Thịt gà chiên nước mắm",
+        "Thịt ba chỉ quay giòn bì",
+        "Canh rau cải",
+        "Củ cải muối",
+        "Tráng miệng: Quất ngọt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-57-1671587877213780697461.jpg"
     },
     {
       "id": 62,
-      "dishes": ["Riêu cua", "Bắp bò ngâm mắm", "Thịt diềm luộc", "Tôm hấp nước dừa", "Cà pháo", "Tráng miệng: Quýt"],
+      "dishes": [
+        "Riêu cua",
+        "Bắp bò ngâm mắm",
+        "Thịt diềm luộc",
+        "Tôm hấp nước dừa",
+        "Cà pháo",
+        "Tráng miệng: Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-98-16715878746801816647254.jpg"
     },
     {
       "id": 63,
-      "dishes": ["Cá nục chiên mắm tỏi", "Trứng đúc thịt", "Ngồng cải luộc", "Bông cải san hô xào nấm, tôm", "Tráng miệng: Quýt ngọt"],
+      "dishes": [
+        "Cá nục chiên mắm tỏi",
+        "Trứng đúc thịt",
+        "Ngồng cải luộc",
+        "Bông cải san hô xào nấm, tôm",
+        "Tráng miệng: Quýt ngọt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-86-1671587874815864690913.jpg"
     },
     {
       "id": 64,
-      "dishes": ["Sườn rim dứa", "Khoai tây xào thịt bò", "Bông cải xanh luộc", "Tráng miệng: Kiwi, dứa"],
+      "dishes": [
+        "Sườn rim dứa",
+        "Khoai tây xào thịt bò",
+        "Bông cải xanh luộc",
+        "Tráng miệng: Kiwi, dứa"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-94-16715878747321412948503.jpg"
     },
     {
       "id": 65,
-      "dishes": ["Thịt bò quấn hành nướng", "Đậu xối mỡ hành", "Cá chỉ vàng nướng", "Canh cải cúc", "Củ cải ngâm", "Tráng miệng: Hồng giòn"],
+      "dishes": [
+        "Thịt bò quấn hành nướng",
+        "Đậu xối mỡ hành",
+        "Cá chỉ vàng nướng",
+        "Canh cải cúc",
+        "Củ cải ngâm",
+        "Tráng miệng: Hồng giòn"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-59-16715878770476712599.jpg"
     },
     {
       "id": 66,
-      "dishes": ["Cá kho", "Tôm rang", "Bí đỏ xào", "Canh rau cải", "Củ cải ngâm"],
+      "dishes": [
+        "Cá kho",
+        "Tôm rang",
+        "Bí đỏ xào",
+        "Canh rau cải",
+        "Củ cải ngâm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-60-16715878770101462967206.jpg"
     },
     {
       "id": 67,
-      "dishes": ["Tôm hấp", "Vịt quay", "Su hào xào lòng mề", "Canh chua"],
+      "dishes": [
+        "Tôm hấp",
+        "Vịt quay",
+        "Su hào xào lòng mề",
+        "Canh chua"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-64-1671587876756841136197.jpg"
     },
     {
       "id": 68,
-      "dishes": ["Cải luộc", "Đỗ xanh xào thịt bò", "Chả cốm", "Cá hồi cuộn rau củ"],
+      "dishes": [
+        "Cải luộc",
+        "Đỗ xanh xào thịt bò",
+        "Chả cốm",
+        "Cá hồi cuộn rau củ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-76-1671587875403698617712.jpg"
     },
     {
       "id": 69,
-      "dishes": ["Thịt kho cá nục", "Đậu non hấp", "Bắp cải luộc", "Hoa lơ xào dưa chuột"],
+      "dishes": [
+        "Thịt kho cá nục",
+        "Đậu non hấp",
+        "Bắp cải luộc",
+        "Hoa lơ xào dưa chuột"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-63-16715878768392017230412.jpg"
     },
     {
       "id": 70,
-      "dishes": ["Đậu xối mỡ hành", "Mướp đắng nhồi thịt", "Hoa lơ xanh luộc", "Ngao hoa hấp", "Sườn kho", "Cá Trích chiên"],
+      "dishes": [
+        "Đậu xối mỡ hành",
+        "Mướp đắng nhồi thịt",
+        "Hoa lơ xanh luộc",
+        "Ngao hoa hấp",
+        "Sườn kho",
+        "Cá Trích chiên"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-52-16715878776781014873943.jpg"
     },
     {
       "id": 71,
-      "dishes": ["Ngồng cải luộc", "Bắp cải cuốn thịt", "Canh sườn khoai tây", "Mực nhồi thịt rim", "Củ cải muối"],
+      "dishes": [
+        "Ngồng cải luộc",
+        "Bắp cải cuốn thịt",
+        "Canh sườn khoai tây",
+        "Mực nhồi thịt rim",
+        "Củ cải muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-62-1671587876929439672003.jpg"
     },
     {
       "id": 72,
-      "dishes": ["Rau muống luộc", "Cá mòi rang muối", "Thịt ba chỉ rang", "Đậu kho", "Trứng hấp", "Tráng miệng: Quýt ngọt"],
+      "dishes": [
+        "Rau muống luộc",
+        "Cá mòi rang muối",
+        "Thịt ba chỉ rang",
+        "Đậu kho",
+        "Trứng hấp",
+        "Tráng miệng: Quýt ngọt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-77-1671587875395343394284.jpg"
     },
     {
       "id": 73,
-      "dishes": ["Mực nhồi thịt hấp", "Thịt bò xào rau củ", "Canh cải chua", "Ngồng cải luộc", "Tráng miệng: Kiwi"],
+      "dishes": [
+        "Mực nhồi thịt hấp",
+        "Thịt bò xào rau củ",
+        "Canh cải chua",
+        "Ngồng cải luộc",
+        "Tráng miệng: Kiwi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-91-1671587874759284955519.jpg"
     },
     {
       "id": 74,
-      "dishes": ["Canh cua", "Cá chiên", "Cà pháo", "Tráng miệng: Mận"],
+      "dishes": [
+        "Canh cua",
+        "Cá chiên",
+        "Cà pháo",
+        "Tráng miệng: Mận"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-13-16715878799311924958031.jpg"
     },
     {
       "id": 75,
-      "dishes": ["Cuống họng luộc", "Đậu tẩm hành", "Đùi gà củ tỏi chiên", "Canh củ cải", "Cải chíp luộc", "Cà pháo", "Tráng miệng: Nho, dâu tây"],
+      "dishes": [
+        "Cuống họng luộc",
+        "Đậu tẩm hành",
+        "Đùi gà củ tỏi chiên",
+        "Canh củ cải",
+        "Cải chíp luộc",
+        "Cà pháo",
+        "Tráng miệng: Nho, dâu tây"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-102-16715878746102005998080.jpg"
     },
     {
       "id": 76,
-      "dishes": ["Canh rau củ", "Thịt bò nướng", "Rau cải luộc", "Cá thu rim chua ngọt", "Trứng hấp", "Tráng miệng: Bưởi"],
+      "dishes": [
+        "Canh rau củ",
+        "Thịt bò nướng",
+        "Rau cải luộc",
+        "Cá thu rim chua ngọt",
+        "Trứng hấp",
+        "Tráng miệng: Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-70-16715878757961313179853.jpg"
     },
     {
       "id": 77,
-      "dishes": ["Canh cá nấu chua", "Súp lơ san hô xào mực", "Sườn xào chua ngọt", "Bắp cải cuộn đậu nấm om cà chua", "Cà pháo dầm", "Tráng miệng: Nho xanh"],
+      "dishes": [
+        "Canh cá nấu chua",
+        "Súp lơ san hô xào mực",
+        "Sườn xào chua ngọt",
+        "Bắp cải cuộn đậu nấm om cà chua",
+        "Cà pháo dầm",
+        "Tráng miệng: Nho xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-81-16715878748871581121795.jpg"
     },
     {
       "id": 78,
-      "dishes": ["Đậu kho nấm đùi gà", "Tôm rang thịt", "Canh súp lơ san hô", "Dưa leo", "Tráng miệng: Quýt"],
+      "dishes": [
+        "Đậu kho nấm đùi gà",
+        "Tôm rang thịt",
+        "Canh súp lơ san hô",
+        "Dưa leo",
+        "Tráng miệng: Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-69-16715878760211862516871.jpg"
     },
     {
       "id": 79,
-      "dishes": ["Rau cải luộc", "Cá thu kho củ cải", "Canh rau củ"],
+      "dishes": [
+        "Rau cải luộc",
+        "Cá thu kho củ cải",
+        "Canh rau củ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-61-1671587876990236376222.jpg"
     },
     {
       "id": 80,
-      "dishes": ["Thịt vịt quay", "Nộm thập cẩm", "Bí ngò, củ cải luộc", "Giò thủ", "Canh rau cải"],
+      "dishes": [
+        "Thịt vịt quay",
+        "Nộm thập cẩm",
+        "Bí ngò, củ cải luộc",
+        "Giò thủ",
+        "Canh rau cải"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-82-16715878748781374619069.jpg"
     },
     {
       "id": 81,
-      "dishes": ["Cải chíp luộc", "Canh nấm hẹ", "Sườn rim coca", "Cá tuyết kho tiêu", "Lạc rang", "Tráng miệng: Nho xanh"],
+      "dishes": [
+        "Cải chíp luộc",
+        "Canh nấm hẹ",
+        "Sườn rim coca",
+        "Cá tuyết kho tiêu",
+        "Lạc rang",
+        "Tráng miệng: Nho xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-93-16715878747471102776072.jpg"
     },
     {
       "id": 82,
-      "dishes": ["Lẩu hải sản"],
+      "dishes": [
+        "Lẩu hải sản"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-103-16715878744412110249600.jpg"
     },
     {
       "id": 83,
-      "dishes": ["Thịt ba chỉ luộc", "Rau muống luộc", "Cá nục chiên mắm tỏi", "Cà pháo", "Tráng miệng: Dâu tây"],
+      "dishes": [
+        "Thịt ba chỉ luộc",
+        "Rau muống luộc",
+        "Cá nục chiên mắm tỏi",
+        "Cà pháo",
+        "Tráng miệng: Dâu tây"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-55-16715878773731577353756.jpg"
     },
     {
       "id": 84,
-      "dishes": ["Cá kho giềng", "Cá mòi chiên", "Canh cá chua", "Tôm tẩm bột chiên", "Tráng miệng: Dâu tây"],
+      "dishes": [
+        "Cá kho giềng",
+        "Cá mòi chiên",
+        "Canh cá chua",
+        "Tôm tẩm bột chiên",
+        "Tráng miệng: Dâu tây"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-87-16715878747951765955377.jpg"
     },
     {
       "id": 85,
-      "dishes": ["Canh chua sấu", "Đậu tẩm hành", "Cá nục sốt cà chua", "Thịt ba chỉ luộc", "Ngồng cải luộc", "Cà pháo", "Tráng miệng: Dâu tây"],
+      "dishes": [
+        "Canh chua sấu",
+        "Đậu tẩm hành",
+        "Cá nục sốt cà chua",
+        "Thịt ba chỉ luộc",
+        "Ngồng cải luộc",
+        "Cà pháo",
+        "Tráng miệng: Dâu tây"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-79-1671587874967986330061.jpg"
     },
     {
       "id": 86,
-      "dishes": ["Bún bò Huế"],
+      "dishes": [
+        "Bún bò Huế"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-66-167158787656229742516.jpg"
     },
     {
       "id": 87,
-      "dishes": ["Canh ốc chuối đậu", "Trứng tráng ngải cứu", "Nhộng rang lá chanh", "Cánh gà kho tương", "Oden", "Bánh Flan", "Tráng miệng: Quýt"],
+      "dishes": [
+        "Canh ốc chuối đậu",
+        "Trứng tráng ngải cứu",
+        "Nhộng rang lá chanh",
+        "Cánh gà kho tương",
+        "Oden",
+        "Bánh Flan",
+        "Tráng miệng: Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-96-16715878747181339039509.jpg"
     },
     {
       "id": 88,
-      "dishes": ["Cánh gà chiên bơ tỏi", "Chả bò lá lốt", "Cá thu kho tộ", "Bắp cải luộc chấm mắm trứng", "Tráng miệng: Xoài xanh"],
+      "dishes": [
+        "Cánh gà chiên bơ tỏi",
+        "Chả bò lá lốt",
+        "Cá thu kho tộ",
+        "Bắp cải luộc chấm mắm trứng",
+        "Tráng miệng: Xoài xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-92-1671587874752957344484.jpg"
     },
     {
       "id": 89,
-      "dishes": ["Cơm cá hồi", "Canh trứng đậu"],
+      "dishes": [
+        "Cơm cá hồi",
+        "Canh trứng đậu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-53-1671587877662591059224.jpg"
     },
     {
       "id": 90,
-      "dishes": ["Bún cá chấm"],
+      "dishes": [
+        "Bún cá chấm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-54-16715878774831524368008.jpg"
     },
     {
       "id": 91,
-      "dishes": ["Thịt ba chỉ kho trứng cút", "Đậu rán", "Canh thịt bắp cải", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Thịt ba chỉ kho trứng cút",
+        "Đậu rán",
+        "Canh thịt bắp cải",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-44-16697116830802086116054.jpg"
     },
     {
       "id": 92,
-      "dishes": ["Thịt nướng", "Ốc om chuối đậu", "Nộm rau củ", "Tráng miệng: Xoài"],
+      "dishes": [
+        "Thịt nướng",
+        "Ốc om chuối đậu",
+        "Nộm rau củ",
+        "Tráng miệng: Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-45-1669711682944543910453.jpg"
     },
     {
       "id": 93,
-      "dishes": ["Thịt xào giá đỗ", "Đậu sốt cà chua", "Canh cua", "Tráng miệng: Bưởi da xanh"],
+      "dishes": [
+        "Thịt xào giá đỗ",
+        "Đậu sốt cà chua",
+        "Canh cua",
+        "Tráng miệng: Bưởi da xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-46-1669711683090153780610.jpg"
     },
     {
       "id": 94,
-      "dishes": ["Cánh gà chiên nước mắm", "Măng xào thịt ba chỉ", "Canh ngao mồng tơi", "Tráng miệng: Mận"],
+      "dishes": [
+        "Cánh gà chiên nước mắm",
+        "Măng xào thịt ba chỉ",
+        "Canh ngao mồng tơi",
+        "Tráng miệng: Mận"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-47-16697116829731879818699.jpg"
     },
     {
       "id": 95,
-      "dishes": ["Cá kho", "Canh thịt nấu giá", "Bí luộc", "Tráng miệng: Thanh long"],
+      "dishes": [
+        "Cá kho",
+        "Canh thịt nấu giá",
+        "Bí luộc",
+        "Tráng miệng: Thanh long"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-48-1669711682850159543857.jpg"
     },
     {
       "id": 96,
-      "dishes": ["Thịt ba chỉ luộc", "Canh củ quả", "Salad", "Tráng miệng: Dứa"],
+      "dishes": [
+        "Thịt ba chỉ luộc",
+        "Canh củ quả",
+        "Salad",
+        "Tráng miệng: Dứa"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-49-16697116830691955411884.jpg"
     },
     {
       "id": 97,
-      "dishes": ["Măng xào thịt bò", "Riêu cua", "Su su luộc", "Tráng miệng: Dứa"],
+      "dishes": [
+        "Măng xào thịt bò",
+        "Riêu cua",
+        "Su su luộc",
+        "Tráng miệng: Dứa"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-50-16697116829321241967388.jpg"
     },
     {
       "id": 98,
-      "dishes": ["Thịt ba chỉ nướng", "Canh rau củ thịt băm", "Su su xào", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Thịt ba chỉ nướng",
+        "Canh rau củ thịt băm",
+        "Su su xào",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-51-1669711682802816783175.jpg"
     },
     {
       "id": 99,
-      "dishes": ["Thịt dải luộc", "Canh xương nấu chua", "Rau muống xào", "Tráng miệng: Dưa hấu, nho, xoài"],
+      "dishes": [
+        "Thịt dải luộc",
+        "Canh xương nấu chua",
+        "Rau muống xào",
+        "Tráng miệng: Dưa hấu, nho, xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-52-1669711682840452862095.jpg"
     },
     {
       "id": 100,
-      "dishes": ["Xương tẩm bột rán", "Canh xương nấu bí", "Dưa chuột", "Tráng miệng: Bưởi da xanh"],
+      "dishes": [
+        "Xương tẩm bột rán",
+        "Canh xương nấu bí",
+        "Dưa chuột",
+        "Tráng miệng: Bưởi da xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-53-1669711682895244677393.jpg"
     },
     {
       "id": 101,
-      "dishes": ["Thịt trâu xào khế", "Canh xương ninh khoai, cà rốt", "Dưa góp", "Tráng miệng: Cam ngọt"],
+      "dishes": [
+        "Thịt trâu xào khế",
+        "Canh xương ninh khoai, cà rốt",
+        "Dưa góp",
+        "Tráng miệng: Cam ngọt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-54-16697116829111739025645.jpg"
     },
     {
       "id": 102,
-      "dishes": ["Sườn xào chua ngọt", "Rau bí luộc", "Nộm rau củ", "Chân gà ngâm"],
+      "dishes": [
+        "Sườn xào chua ngọt",
+        "Rau bí luộc",
+        "Nộm rau củ",
+        "Chân gà ngâm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-60-16697116830992022154045.jpg"
     },
     {
       "id": 103,
-      "dishes": ["Hàu nướng", "Sườn nướng", "Viên chiên", "Tráng miệng: Bưởi, táo"],
+      "dishes": [
+        "Hàu nướng",
+        "Sườn nướng",
+        "Viên chiên",
+        "Tráng miệng: Bưởi, táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-58-1669711683018684896544.jpg"
     },
     {
       "id": 104,
-      "dishes": ["Đậu sốt cà chua", "Nấm đùi gà kho", "Đỗ xào thập cẩm", "Canh củ quả"],
+      "dishes": [
+        "Đậu sốt cà chua",
+        "Nấm đùi gà kho",
+        "Đỗ xào thập cẩm",
+        "Canh củ quả"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-57-16697116830011247377028.jpg"
     },
     {
       "id": 105,
-      "dishes": ["Cuốn thập cẩm", "Pizza", "Bánh xèo"],
+      "dishes": [
+        "Cuốn thập cẩm",
+        "Pizza",
+        "Bánh xèo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-59-1669711682983375965617.jpg"
     },
     {
       "id": 106,
-      "dishes": ["Chân giò kho nấm", "Canh rau ngót", "Đậu rán", "Tráng miệng: Chuối"],
+      "dishes": [
+        "Chân giò kho nấm",
+        "Canh rau ngót",
+        "Đậu rán",
+        "Tráng miệng: Chuối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-40-1669711683257710126696.jpg"
     },
     {
       "id": 107,
-      "dishes": ["Lẩu hải sản", "Lẩu bò"],
+      "dishes": [
+        "Lẩu hải sản",
+        "Lẩu bò"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-33-16697116848101568966926.jpg"
     },
     {
       "id": 108,
-      "dishes": ["Nem rán", "Tôm rang thịt", "Rau cải luộc", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Nem rán",
+        "Tôm rang thịt",
+        "Rau cải luộc",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-34-1669711684590861423140.jpg"
     },
     {
       "id": 109,
-      "dishes": ["Thịt gà kho", "Trứng rán", "Canh chua", "Tráng miệng: Ổi, măng cụt"],
+      "dishes": [
+        "Thịt gà kho",
+        "Trứng rán",
+        "Canh chua",
+        "Tráng miệng: Ổi, măng cụt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-13-1669711685038583491638.jpg"
     },
     {
       "id": 110,
-      "dishes": ["Nem rán", "Ghẹ sữa chiên", "Thịt gà rang", "Canh ngao mồng tơi"],
+      "dishes": [
+        "Nem rán",
+        "Ghẹ sữa chiên",
+        "Thịt gà rang",
+        "Canh ngao mồng tơi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-25-1669711688427755359041.jpg"
     },
     {
       "id": 111,
-      "dishes": ["Thịt gà kho xả", "Mướp xào giá", "Canh trứng cà chua", "Chả chiên"],
+      "dishes": [
+        "Thịt gà kho xả",
+        "Mướp xào giá",
+        "Canh trứng cà chua",
+        "Chả chiên"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-19-1669711691853555751080.jpg"
     },
     {
       "id": 112,
-      "dishes": ["Tôm rang", "Đậu rán", "Sườn ninh thập cẩm", "Tráng miệng: Nhãn"],
+      "dishes": [
+        "Tôm rang",
+        "Đậu rán",
+        "Sườn ninh thập cẩm",
+        "Tráng miệng: Nhãn"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-17-16697116961992003952162.jpg"
     },
     {
       "id": 113,
-      "dishes": ["Nem rán", "Tôm kho thịt", "Canh cua", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Nem rán",
+        "Tôm kho thịt",
+        "Canh cua",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-22-16697116894342032018748.jpg"
     },
     {
       "id": 114,
-      "dishes": ["Cá rán", "Miến xào thập cẩm", "Canh chua", "Cà pháo"],
+      "dishes": [
+        "Cá rán",
+        "Miến xào thập cẩm",
+        "Canh chua",
+        "Cà pháo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com11-1669711699732627000037.jpg"
     },
     {
       "id": 115,
-      "dishes": ["Cá rán", "Thịt kho", "Rau muống luộc", "Tráng miệng: Bưởi, dưa, bơ"],
+      "dishes": [
+        "Cá rán",
+        "Thịt kho",
+        "Rau muống luộc",
+        "Tráng miệng: Bưởi, dưa, bơ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-28-16697116877251085079897.jpg"
     },
     {
       "id": 116,
-      "dishes": ["Thịt ba chỉ luộc", "Đậu sốt cà chua", "Cá rán", "Khoai tây xào", "Rau bí luộc", "Tráng miệng: Dứa, xoài"],
+      "dishes": [
+        "Thịt ba chỉ luộc",
+        "Đậu sốt cà chua",
+        "Cá rán",
+        "Khoai tây xào",
+        "Rau bí luộc",
+        "Tráng miệng: Dứa, xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-26-16697116882001837661563.jpg"
     },
     {
       "id": 117,
-      "dishes": ["Thịt kho", "Rau bí xào", "Canh chua", "Tráng miệng: Dưa hấu, bưởi"],
+      "dishes": [
+        "Thịt kho",
+        "Rau bí xào",
+        "Canh chua",
+        "Tráng miệng: Dưa hấu, bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-31-16697116860411284501879.jpg"
     },
     {
       "id": 118,
-      "dishes": ["Sườn kho", "Canh rau ngót", "Rau củ xào thập cẩm", "Tráng miệng: Ổi"],
+      "dishes": [
+        "Sườn kho",
+        "Canh rau ngót",
+        "Rau củ xào thập cẩm",
+        "Tráng miệng: Ổi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-42-16697116829231879619908.jpg"
     },
     {
       "id": 119,
-      "dishes": ["Thịt kho tôm", "Lòng xào mướp", "Canh cua", "Tráng miệng: Dưa lê"],
+      "dishes": [
+        "Thịt kho tôm",
+        "Lòng xào mướp",
+        "Canh cua",
+        "Tráng miệng: Dưa lê"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-20-1669711690610465922006.jpg"
     },
     {
       "id": 120,
-      "dishes": ["Đậu nhồi thịt sốt cà chua", "Nem nắm", "Thịt kho", "Canh bí", "Ngô chiên", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Đậu nhồi thịt sốt cà chua",
+        "Nem nắm",
+        "Thịt kho",
+        "Canh bí",
+        "Ngô chiên",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-18-1669711694324315232896.jpg"
     },
     {
       "id": 121,
-      "dishes": ["Cá rán", "Canh cá nấu chua", "Canh ngao mồng tơi", "Thịt gà kho", "Tráng miệng: Táo"],
+      "dishes": [
+        "Cá rán",
+        "Canh cá nấu chua",
+        "Canh ngao mồng tơi",
+        "Thịt gà kho",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-10-1669711701837829647538.jpg"
     },
     {
       "id": 122,
-      "dishes": ["Thịt gà kho", "Đậu sốt cà chua", "Canh cua", "Tráng miệng: Cam"],
+      "dishes": [
+        "Thịt gà kho",
+        "Đậu sốt cà chua",
+        "Canh cua",
+        "Tráng miệng: Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-12-16697116990281292706054.jpg"
     },
     {
       "id": 123,
-      "dishes": ["Nem rán", "Xương ninh khoai", "Tráng miệng: Táo"],
+      "dishes": [
+        "Nem rán",
+        "Xương ninh khoai",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-15-1669711698260560974116.jpg"
     },
     {
       "id": 124,
-      "dishes": ["Thịt chó", "Bò xào súp lơ", "Canh chua", "Ốc om chuối đậu"],
+      "dishes": [
+        "Thịt chó",
+        "Bò xào súp lơ",
+        "Canh chua",
+        "Ốc om chuối đậu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-23-16697116889521313799436.jpg"
     },
     {
       "id": 125,
-      "dishes": ["Vịt nướng", "Canh thịt nấu chua", "Tráng miệng: Dưa lê"],
+      "dishes": [
+        "Vịt nướng",
+        "Canh thịt nấu chua",
+        "Tráng miệng: Dưa lê"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-32-1669711685666122239281.jpg"
     },
     {
       "id": 126,
-      "dishes": ["Cá om dưa", "Rau muống luộc", "Dưa muối", "Bí đỏ xào thịt bò", "Tráng miệng: Chuối"],
+      "dishes": [
+        "Cá om dưa",
+        "Rau muống luộc",
+        "Dưa muối",
+        "Bí đỏ xào thịt bò",
+        "Tráng miệng: Chuối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-30-16697116866851912294402.jpg"
     },
     {
       "id": 127,
-      "dishes": ["Mướp xào giá", "Đậu rán", "Xương ninh củ quả", "Tráng miệng: Chôm chôm"],
+      "dishes": [
+        "Mướp xào giá",
+        "Đậu rán",
+        "Xương ninh củ quả",
+        "Tráng miệng: Chôm chôm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-24-1669711688738954724314.jpg"
     },
     {
       "id": 128,
-      "dishes": ["Chả ốc", "Riêu ốc", "Tráng miệng: Dưa vàng"],
+      "dishes": [
+        "Chả ốc",
+        "Riêu ốc",
+        "Tráng miệng: Dưa vàng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-67-16698633420911216476489.jpg"
     },
     {
       "id": 129,
-      "dishes": ["Trứng cá sốt cà chua", "Cá phèn hồng rán", "Rau bí luộc", "Đậu rán"],
+      "dishes": [
+        "Trứng cá sốt cà chua",
+        "Cá phèn hồng rán",
+        "Rau bí luộc",
+        "Đậu rán"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-74-16698625040292138076159.jpg"
     },
     {
       "id": 130,
-      "dishes": ["Chả rươi", "Riêu rươi"],
+      "dishes": [
+        "Chả rươi",
+        "Riêu rươi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-63-1669862504439679663732.jpg"
     },
     {
       "id": 131,
-      "dishes": ["Tốm chao", "Canh rau củ", "Muối vừng", "Tráng miệng: Táo"],
+      "dishes": [
+        "Tốm chao",
+        "Canh rau củ",
+        "Muối vừng",
+        "Tráng miệng: Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-65-16698625040611531054904.jpg"
     },
     {
       "id": 132,
-      "dishes": ["Rau lang xào tỏi", "Sườn sốt chua ngọt", "Trứng cuộn", "Dưa chuột", "Tráng miệng: Mít"],
+      "dishes": [
+        "Rau lang xào tỏi",
+        "Sườn sốt chua ngọt",
+        "Trứng cuộn",
+        "Dưa chuột",
+        "Tráng miệng: Mít"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-80-16698625038951409660342.jpg"
     },
     {
       "id": 133,
-      "dishes": ["Kho quẹt", "Canh xương bí đỏ", "Su su luộc", "Tráng miệng: Dưa hấu"],
+      "dishes": [
+        "Kho quẹt",
+        "Canh xương bí đỏ",
+        "Su su luộc",
+        "Tráng miệng: Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-14-1669860813473903104645.jpg"
     },
     {
       "id": 134,
-      "dishes": ["Tôm tẩm bột rán", "Canh xương ninh khoai sọ", "Sủi cảo chiên", "Dưa góp"],
+      "dishes": [
+        "Tôm tẩm bột rán",
+        "Canh xương ninh khoai sọ",
+        "Sủi cảo chiên",
+        "Dưa góp"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-56-1669860380180631627991.jpg"
     },
     {
       "id": 135,
-      "dishes": ["Bún đậu", "Thịt ba chỉ luộc", "Lòng lợn", "Chả rán"],
+      "dishes": [
+        "Bún đậu",
+        "Thịt ba chỉ luộc",
+        "Lòng lợn",
+        "Chả rán"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-21-16697116900701182145453.jpg"
     },
     {
       "id": 136,
-      "dishes": ["Mực khô nướng", "Cá chỉ vàng nướng", "Giò bò", "Canh măng vịt", "Bí đỏ xào tỏi", "Tráng miệng: Dưa, cam, Bơ"],
+      "dishes": [
+        "Mực khô nướng",
+        "Cá chỉ vàng nướng",
+        "Giò bò",
+        "Canh măng vịt",
+        "Bí đỏ xào tỏi",
+        "Tráng miệng: Dưa, cam, Bơ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-16-1669711697452131502385.jpg"
     },
     {
       "id": 137,
-      "dishes": ["Gà chiên tỏi", "Tôm rang thịt", "Súp lơ luộc", "Tráng miệng: Chuối"],
+      "dishes": [
+        "Gà chiên tỏi",
+        "Tôm rang thịt",
+        "Súp lơ luộc",
+        "Tráng miệng: Chuối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-41-166971168321625914436.jpg"
     },
     {
       "id": 138,
-      "dishes": ["Thịt kho nấm", "Canh rau ngót", "Đậu rán", "Tráng miệng: Xoài"],
+      "dishes": [
+        "Thịt kho nấm",
+        "Canh rau ngót",
+        "Đậu rán",
+        "Tráng miệng: Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-39-1669711683374103770605.jpg"
     },
     {
       "id": 139,
-      "dishes": ["Giả cầy", "Bí ngò xào thịt bò", "Canh rau ngót", "Trứng rán", "Tráng miệng: Hoa quả"],
+      "dishes": [
+        "Giả cầy",
+        "Bí ngò xào thịt bò",
+        "Canh rau ngót",
+        "Trứng rán",
+        "Tráng miệng: Hoa quả"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-27-16697116879421411327786.jpg"
     },
     {
       "id": 140,
-      "dishes": ["Thịt rang tôm", "Cải thảo luộc", "Canh thịt nấu chua", "Tráng miệng: Xoài"],
+      "dishes": [
+        "Thịt rang tôm",
+        "Cải thảo luộc",
+        "Canh thịt nấu chua",
+        "Tráng miệng: Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-38-16697116835301598710462.jpg"
     },
     {
       "id": 141,
-      "dishes": ["Cá kho thịt", "Rau muống luộc", "Dưa muối", "Tráng miệng: Dưa lưới"],
+      "dishes": [
+        "Cá kho thịt",
+        "Rau muống luộc",
+        "Dưa muối",
+        "Tráng miệng: Dưa lưới"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-36-16697116841621588356479.jpg"
     },
     {
       "id": 142,
-      "dishes": ["Mực hấp", "Trứng rán", "Canh tôm nấu mồng tơi"],
+      "dishes": [
+        "Mực hấp",
+        "Trứng rán",
+        "Canh tôm nấu mồng tơi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-75-16698625039241684118332.jpg"
     },
     {
       "id": 143,
-      "dishes": ["Thịt ba chỉ quay", "Canh rau cải nấu thịt", "Bắp cải muối", "Tráng miệng: Nho"],
+      "dishes": [
+        "Thịt ba chỉ quay",
+        "Canh rau cải nấu thịt",
+        "Bắp cải muối",
+        "Tráng miệng: Nho"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/1/com-79-1669862503906912504526.jpg"
     },
     {
       "id": 144,
-      "dishes": ["Thịt gà kho gừng", "Rau muống luộc", "Đậu rán", "Tráng miệng: Đu đủ"],
+      "dishes": [
+        "Thịt gà kho gừng",
+        "Rau muống luộc",
+        "Đậu rán",
+        "Tráng miệng: Đu đủ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-35-16697116843152036105413.jpg"
     },
     {
       "id": 145,
-      "dishes": ["Thịt chân giò luộc", "Cà bung đậu thịt", "Rau lang luộc", "Cà muối", "Dưa chuột bao tử"],
+      "dishes": [
+        "Thịt chân giò luộc",
+        "Cà bung đậu thịt",
+        "Rau lang luộc",
+        "Cà muối",
+        "Dưa chuột bao tử"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/img-4654-1669711702699450559451.jpg"
     },
     {
       "id": 146,
-      "dishes": ["Phở gà"],
+      "dishes": [
+        "Phở gà"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/img-4651-16697117026761224292918.jpg"
     },
     {
       "id": 147,
-      "dishes": ["Chả thịt", "Rau bí xào tỏi", "Tôm rang thịt", "Lạc chiên", "Canh tôm mồng tơi"],
+      "dishes": [
+        "Chả thịt",
+        "Rau bí xào tỏi",
+        "Tôm rang thịt",
+        "Lạc chiên",
+        "Canh tôm mồng tơi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/img-4652-1669711702632296046530.jpg"
     },
     {
       "id": 148,
-      "dishes": ["Cá kho tiêu", "Canh cua", "Nem nắm", "Cà muối", "Tráng miệng: Măng cụt"],
+      "dishes": [
+        "Cá kho tiêu",
+        "Canh cua",
+        "Nem nắm",
+        "Cà muối",
+        "Tráng miệng: Măng cụt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-9-16697117028221212477897.jpg"
     },
     {
       "id": 149,
-      "dishes": ["Tôm rang thịt", "Rau muống luộc", "Nước rau muống", "Tráng miệng: Lựu"],
+      "dishes": [
+        "Tôm rang thịt",
+        "Rau muống luộc",
+        "Nước rau muống",
+        "Tráng miệng: Lựu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/11/29/com-37-1669711683662653334832.jpg"
     },
     {
       "id": 150,
-      "dishes": ["Tôm rim mặn", "Bí đỏ nấu", "Đậu hũ chiên mắm hành", "Cơm trắng nấu niêu đất", "Nho xanh tráng miệng"],
+      "dishes": [
+        "Tôm rim mặn",
+        "Bí đỏ nấu",
+        "Đậu hũ chiên mắm hành",
+        "Cơm trắng nấu niêu đất",
+        "Nho xanh tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2448-17445321994301815638249.jpeg"
     },
     {
       "id": 151,
-      "dishes": ["Canh móng giò hầm bí đỏ", "Đậu phụ chiên giòn", "Trứng ngâm xì dầu tỏi ớt", "Rau lang luộc", "Tép rang cay", "Cá rô rán giòn"],
+      "dishes": [
+        "Canh móng giò hầm bí đỏ",
+        "Đậu phụ chiên giòn",
+        "Trứng ngâm xì dầu tỏi ớt",
+        "Rau lang luộc",
+        "Tép rang cay",
+        "Cá rô rán giòn"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2454-1744532168772905243110.jpeg"
     },
     {
       "id": 152,
-      "dishes": ["Canh cá khoai nấu chua", "Nem nướng", "Dạ dày xào dưa chua", "Hành muối"],
+      "dishes": [
+        "Canh cá khoai nấu chua",
+        "Nem nướng",
+        "Dạ dày xào dưa chua",
+        "Hành muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2455-1744532169574951965219.jpeg"
     },
     {
       "id": 153,
-      "dishes": ["Canh dưa chua nấu sụn non", "Đậu đũa xào thịt bò", "Nấm kho nước tương", "Dưa muối hành trộn"],
+      "dishes": [
+        "Canh dưa chua nấu sụn non",
+        "Đậu đũa xào thịt bò",
+        "Nấm kho nước tương",
+        "Dưa muối hành trộn"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2453-17445321715751380245721.jpeg"
     },
     {
       "id": 154,
-      "dishes": ["Đậu phụ chiên giòn rắc hành đậu phộng", "Gỏi mít non trộn tai heo", "Canh bí đao nấu xương", "Cơm trắng nấu niêu đất"],
+      "dishes": [
+        "Đậu phụ chiên giòn rắc hành đậu phộng",
+        "Gỏi mít non trộn tai heo",
+        "Canh bí đao nấu xương",
+        "Cơm trắng nấu niêu đất"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2449-17445321960512046291229.jpeg"
     },
     {
       "id": 155,
-      "dishes": ["Bún tươi", "Đậu phụ chiên vàng", "Rau sống và dưa leo thái sợi"],
+      "dishes": [
+        "Bún tươi",
+        "Đậu phụ chiên vàng",
+        "Rau sống và dưa leo thái sợi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2450-1744532195707687297742.jpeg"
     },
     {
       "id": 156,
-      "dishes": ["Tôm tươi xào", "Lá lốt cuốn thịt băm", "Tai heo giòn", "Trứng luộc ngâm nước tương tỏi ớt", "Củ quả luộc thập cẩm", "Mít chín tráng miệng"],
+      "dishes": [
+        "Tôm tươi xào",
+        "Lá lốt cuốn thịt băm",
+        "Tai heo giòn",
+        "Trứng luộc ngâm nước tương tỏi ớt",
+        "Củ quả luộc thập cẩm",
+        "Mít chín tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2456-174453217281893111548.jpeg"
     },
     {
       "id": 157,
-      "dishes": ["Canh cải nấu đậu phụ chiên", "Chả lá lốt hấp cắt lát", "Dưa chuột trộn chua cay", "Cà pháo muối chua", "Thịt viên sốt cà chua", "Bánh chuối cacao hấp nướng", "Lê tráng miệng chấm muối rang"],
+      "dishes": [
+        "Canh cải nấu đậu phụ chiên",
+        "Chả lá lốt hấp cắt lát",
+        "Dưa chuột trộn chua cay",
+        "Cà pháo muối chua",
+        "Thịt viên sốt cà chua",
+        "Bánh chuối cacao hấp nướng",
+        "Lê tráng miệng chấm muối rang"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2457-17445321684271372562513.jpeg"
     },
     {
       "id": 158,
-      "dishes": ["Canh sườn nấu khoai mỡ", "Thịt viên sốt cà chua kèm đậu phụ", "Dưa cải xào lòng dồi heo", "Táo tráng miệng cắt lát"],
+      "dishes": [
+        "Canh sườn nấu khoai mỡ",
+        "Thịt viên sốt cà chua kèm đậu phụ",
+        "Dưa cải xào lòng dồi heo",
+        "Táo tráng miệng cắt lát"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2465-1744532155962840690420.jpeg"
     },
     {
       "id": 159,
-      "dishes": ["Gà nướng nguyên con", "Đậu que luộc", "Khoai tây xào thịt bò", "Chả cốm viên chiên", "Nho đỏ tráng miệng"],
+      "dishes": [
+        "Gà nướng nguyên con",
+        "Đậu que luộc",
+        "Khoai tây xào thịt bò",
+        "Chả cốm viên chiên",
+        "Nho đỏ tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2463-1744532155515736587649.jpeg"
     },
     {
       "id": 160,
-      "dishes": ["Thịt kho củ sen", "Thịt heo quay giòn bì", "Đậu phụ luộc", "Bắp cải luộc", "Dưa cải muối"],
+      "dishes": [
+        "Thịt kho củ sen",
+        "Thịt heo quay giòn bì",
+        "Đậu phụ luộc",
+        "Bắp cải luộc",
+        "Dưa cải muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2464-17445321570672032331632.jpeg"
     },
     {
       "id": 161,
-      "dishes": ["Thịt chiên tẩm ướp", "Gan gà xào dứa hành", "Đậu nhồi thịt chiên giòn", "Đậu que luộc", "Trái mận tráng miệng"],
+      "dishes": [
+        "Thịt chiên tẩm ướp",
+        "Gan gà xào dứa hành",
+        "Đậu nhồi thịt chiên giòn",
+        "Đậu que luộc",
+        "Trái mận tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2466-17445321564961481411405.jpeg"
     },
     {
       "id": 162,
-      "dishes": ["Canh rau ngót thịt bằm", "Lưỡi luộc thái lát", "Trứng luộc bổ múi cau", "Lạc rang nước mắm", "Lạp xưởng chiên", "Thịt ba chỉ rán cháy cạnh", "Táo tráng miệng"],
+      "dishes": [
+        "Canh rau ngót thịt bằm",
+        "Lưỡi luộc thái lát",
+        "Trứng luộc bổ múi cau",
+        "Lạc rang nước mắm",
+        "Lạp xưởng chiên",
+        "Thịt ba chỉ rán cháy cạnh",
+        "Táo tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2452-17445321699891017570455.jpeg"
     },
     {
       "id": 163,
-      "dishes": ["Cua đồng rang muối", "Canh mồng tơi nấu cua", "Trứng chiên hành", "Rau muống xào tỏi", "Thịt ba chỉ luộc", "Đậu phụ rán giòn", "Cà pháo muối chua", "Mắm tôm & nước mắm tỏi ớt"],
+      "dishes": [
+        "Cua đồng rang muối",
+        "Canh mồng tơi nấu cua",
+        "Trứng chiên hành",
+        "Rau muống xào tỏi",
+        "Thịt ba chỉ luộc",
+        "Đậu phụ rán giòn",
+        "Cà pháo muối chua",
+        "Mắm tôm & nước mắm tỏi ớt"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2451-1744532197494776196164.jpeg"
     },
     {
       "id": 164,
-      "dishes": ["Cá bông lau kho tộ", "Củ hũ dừa xào tôm", "Rau sống cuốn thịt", "Chén mắm tỏi ớt", "Cơm nóng niêu đất"],
+      "dishes": [
+        "Cá bông lau kho tộ",
+        "Củ hũ dừa xào tôm",
+        "Rau sống cuốn thịt",
+        "Chén mắm tỏi ớt",
+        "Cơm nóng niêu đất"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2467-1744536792399435981420.jpeg"
     },
     {
       "id": 165,
-      "dishes": ["Cá lóc kho nghệ", "Canh bông điên điển nấu cá", "Rau lang xào tỏi", "Chén mắm ớt dằm"],
+      "dishes": [
+        "Cá lóc kho nghệ",
+        "Canh bông điên điển nấu cá",
+        "Rau lang xào tỏi",
+        "Chén mắm ớt dằm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2468-1744536793955148213936.jpeg"
     },
     {
       "id": 166,
-      "dishes": ["Gỏi gà trộn rau củ", "Canh gà nấu nấm", "Xôi trắng nếp", "Ổi, mận tráng miệng"],
+      "dishes": [
+        "Gỏi gà trộn rau củ",
+        "Canh gà nấu nấm",
+        "Xôi trắng nếp",
+        "Ổi, mận tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2469-1744536791957442774294.jpeg"
     },
     {
       "id": 167,
-      "dishes": ["Cá rô đồng chiên giòn", "Canh mướp nấu mồng tơi", "Măng xào cay", "Đậu phộng rang mắm", "Cơm trắng nồi đất"],
+      "dishes": [
+        "Cá rô đồng chiên giòn",
+        "Canh mướp nấu mồng tơi",
+        "Măng xào cay",
+        "Đậu phộng rang mắm",
+        "Cơm trắng nồi đất"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2470-1744536792904387980538.jpeg"
     },
     {
       "id": 168,
-      "dishes": ["Canh rau mồng tơi nấu mướp", "Cá chiên giòn", "Trứng ốp la hành ớt", "Rau sống", "Cơm niêu trắng dẻo"],
+      "dishes": [
+        "Canh rau mồng tơi nấu mướp",
+        "Cá chiên giòn",
+        "Trứng ốp la hành ớt",
+        "Rau sống",
+        "Cơm niêu trắng dẻo"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2471-17445369129891481038462.jpeg"
     },
     {
       "id": 169,
-      "dishes": ["Canh bí đao nấu tôm khô", "Đậu phụ rán mắm hành", "Rau luộc cuộn tròn", "Trứng dầm mắm ớt", "Nấm xào ớt chuông"],
+      "dishes": [
+        "Canh bí đao nấu tôm khô",
+        "Đậu phụ rán mắm hành",
+        "Rau luộc cuộn tròn",
+        "Trứng dầm mắm ớt",
+        "Nấm xào ớt chuông"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2472-1744536910927291700813.jpeg"
     },
     {
       "id": 170,
-      "dishes": ["Cá hấp gừng hành", "Cá chiên sốt cay", "Bắp cải luộc kèm mắm nêm", "Cơm niêu truyền thống"],
+      "dishes": [
+        "Cá hấp gừng hành",
+        "Cá chiên sốt cay",
+        "Bắp cải luộc kèm mắm nêm",
+        "Cơm niêu truyền thống"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2474-17445369094281358534874.jpeg"
     },
     {
       "id": 171,
-      "dishes": ["Thịt ba chỉ rang cháy cạnh", "Rau muống đậu đũa luộc", "Trứng luộc bổ cau", "Canh bí nấu tôm khô", "Nước mắm tỏi ớt", "Cơm trắng nồi đất"],
+      "dishes": [
+        "Thịt ba chỉ rang cháy cạnh",
+        "Rau muống đậu đũa luộc",
+        "Trứng luộc bổ cau",
+        "Canh bí nấu tôm khô",
+        "Nước mắm tỏi ớt",
+        "Cơm trắng nồi đất"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2473-1744536909051881610120.jpeg"
     },
     {
       "id": 172,
-      "dishes": ["Thịt ba chỉ luộc thái lát", "Trứng chiên cuộn hành", "Canh bầu nấu tôm", "Cà muối tròn", "Dưa cải muối chua", "Tép đồng rang khế"],
+      "dishes": [
+        "Thịt ba chỉ luộc thái lát",
+        "Trứng chiên cuộn hành",
+        "Canh bầu nấu tôm",
+        "Cà muối tròn",
+        "Dưa cải muối chua",
+        "Tép đồng rang khế"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/4/13/img2475-1744537600259136509101.jpeg"
     },
     {
       "id": 173,
-      "dishes": ["Chân giò kho sả", "Cá mối chiên", "Rau rền luộc", "Sung muối", "Xoài"],
+      "dishes": [
+        "Chân giò kho sả",
+        "Cá mối chiên",
+        "Rau rền luộc",
+        "Sung muối",
+        "Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/46581589122295301840993061841065518888093663n-1739793287253922757067.jpg"
     },
     {
       "id": 174,
-      "dishes": ["Canh cá nấu ngót", "Rau củ kho quẹt", "Chả giò cá trích", "Củ đậu"],
+      "dishes": [
+        "Canh cá nấu ngót",
+        "Rau củ kho quẹt",
+        "Chả giò cá trích",
+        "Củ đậu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/2-1739793285669523391666.jpg"
     },
     {
       "id": 175,
-      "dishes": ["Giả cầy", "Cá nục kho", "Rau cải luộc", "Lạc rang", "Nhãn thái"],
+      "dishes": [
+        "Giả cầy",
+        "Cá nục kho",
+        "Rau cải luộc",
+        "Lạc rang",
+        "Nhãn thái"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/3-1739793285794809594485.jpg"
     },
     {
       "id": 176,
-      "dishes": ["Canh bí nấu xương", "Gà xào húng quế", "Lòng heo", "Đu đủ đâm mắm", "Hồng láng"],
+      "dishes": [
+        "Canh bí nấu xương",
+        "Gà xào húng quế",
+        "Lòng heo",
+        "Đu đủ đâm mắm",
+        "Hồng láng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/4-1739793285826439768503.jpg"
     },
     {
       "id": 177,
-      "dishes": ["Vịt lộn um bầu", "Thịt heo luộc", "Gỏi sứa", "Kim chi", "Roi"],
+      "dishes": [
+        "Vịt lộn um bầu",
+        "Thịt heo luộc",
+        "Gỏi sứa",
+        "Kim chi",
+        "Roi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/5-17397932859341496435432.jpg"
     },
     {
       "id": 178,
-      "dishes": ["Bí luộc", "Gà hấp muối", "Nấm xào xì dầu lạc", "Sơ ri"],
+      "dishes": [
+        "Bí luộc",
+        "Gà hấp muối",
+        "Nấm xào xì dầu lạc",
+        "Sơ ri"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/6-1739793286026386778276.jpg"
     },
     {
       "id": 179,
-      "dishes": ["Rau muống luộc", "Cá nục kho măng", "Trứng gà luộc", "Cà pháo", "Dưa hấu"],
+      "dishes": [
+        "Rau muống luộc",
+        "Cá nục kho măng",
+        "Trứng gà luộc",
+        "Cà pháo",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/7-1739793286174850750617.jpg"
     },
     {
       "id": 180,
-      "dishes": ["Canh cá nấu bỗng rượu", "Tôm tích hấp", "Đậu rồng mắm ruốc", "Táo cherry"],
+      "dishes": [
+        "Canh cá nấu bỗng rượu",
+        "Tôm tích hấp",
+        "Đậu rồng mắm ruốc",
+        "Táo cherry"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/8-17397932862221084513517.jpg"
     },
     {
       "id": 181,
-      "dishes": ["Canh cải thịt bằm", "Cá ngừ hấp xì dầu", "Bò lúc lắc", "Lê đường"],
+      "dishes": [
+        "Canh cải thịt bằm",
+        "Cá ngừ hấp xì dầu",
+        "Bò lúc lắc",
+        "Lê đường"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/9-1739793286324620349469.jpg"
     },
     {
       "id": 182,
-      "dishes": ["Cá chép luộc", "Đậu rán", "Chả chay", "Ổi hồng"],
+      "dishes": [
+        "Cá chép luộc",
+        "Đậu rán",
+        "Chả chay",
+        "Ổi hồng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/10-17397932863561177536836.jpg"
     },
     {
       "id": 183,
-      "dishes": ["Canh sườn nấu củ", "Chả lá lốt", "Chả giò tôm thịt", "Dưa góp", "Dưa hấu"],
+      "dishes": [
+        "Canh sườn nấu củ",
+        "Chả lá lốt",
+        "Chả giò tôm thịt",
+        "Dưa góp",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/11-17397932863811080626630.jpg"
     },
     {
       "id": 184,
-      "dishes": ["Bánh đúc canh cua", "Rau sống", "Bưởi tráng miệng"],
+      "dishes": [
+        "Bánh đúc canh cua",
+        "Rau sống",
+        "Bưởi tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/2/17/12-17397932864702097604894.jpg"
     },
     {
       "id": 185,
-      "dishes": ["Canh xương nấu khoai sọ", "Cá chim rán", "Chân gà hấp hành", "Lụa xào mỡ hành"],
+      "dishes": [
+        "Canh xương nấu khoai sọ",
+        "Cá chim rán",
+        "Chân gà hấp hành",
+        "Lụa xào mỡ hành"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/13-17397932864981261189320.jpg"
     },
     {
       "id": 186,
-      "dishes": ["Canh bí đỏ thịt bằm", "Tôm sông rang lá chanh", "Nem thính", "Lựu"],
+      "dishes": [
+        "Canh bí đỏ thịt bằm",
+        "Tôm sông rang lá chanh",
+        "Nem thính",
+        "Lựu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/14-1739793286521365528506.jpg"
     },
     {
       "id": 187,
-      "dishes": ["Rau lang luộc", "Thịt nai xào", "Trứng chiên", "Cà pháo", "Táo tàu"],
+      "dishes": [
+        "Rau lang luộc",
+        "Thịt nai xào",
+        "Trứng chiên",
+        "Cà pháo",
+        "Táo tàu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/15-173979328654545376890.jpg"
     },
     {
       "id": 188,
-      "dishes": ["Canh thịt bằm mồng tơi", "Cá hồi sốt teriyaki", "Bí ngòi xào trứng", "Táo mật"],
+      "dishes": [
+        "Canh thịt bằm mồng tơi",
+        "Cá hồi sốt teriyaki",
+        "Bí ngòi xào trứng",
+        "Táo mật"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/16-17397932866621936425125.jpg"
     },
     {
       "id": 189,
-      "dishes": ["Canh sườn nấu sake", "Cá trắm kho riềng", "Dưa bắp cải", "Hồng giòn"],
+      "dishes": [
+        "Canh sườn nấu sake",
+        "Cá trắm kho riềng",
+        "Dưa bắp cải",
+        "Hồng giòn"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/17-17397932867021655128989.jpg"
     },
     {
       "id": 190,
-      "dishes": ["Súp lơ luộc", "Sườn chiên mắm", "Đậu sốt cà chua", "Lạc rang muối", "Thanh long đỏ"],
+      "dishes": [
+        "Súp lơ luộc",
+        "Sườn chiên mắm",
+        "Đậu sốt cà chua",
+        "Lạc rang muối",
+        "Thanh long đỏ"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/18-17397932867631404599814.jpg"
     },
     {
       "id": 191,
-      "dishes": ["Canh cua nấu rau tập tàng", "Thịt rang", "Cá saba chiên", "Cà pháo", "Kiwi"],
+      "dishes": [
+        "Canh cua nấu rau tập tàng",
+        "Thịt rang",
+        "Cá saba chiên",
+        "Cà pháo",
+        "Kiwi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/20-1739793286898387789520.jpg"
     },
     {
       "id": 192,
-      "dishes": ["Canh hến", "Cá chiên", "Hến xào", "Cà pháo", "Lựu"],
+      "dishes": [
+        "Canh hến",
+        "Cá chiên",
+        "Hến xào",
+        "Cà pháo",
+        "Lựu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/21-1739793287021503517182.jpg"
     },
     {
       "id": 193,
-      "dishes": ["Canh hến nấu mồng tơi", "Rau rền luộc", "Lòng xào dưa chua", "Thịt kho củ cải", "Mít"],
+      "dishes": [
+        "Canh hến nấu mồng tơi",
+        "Rau rền luộc",
+        "Lòng xào dưa chua",
+        "Thịt kho củ cải",
+        "Mít"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/22-17397932870451368415840.jpg"
     },
     {
       "id": 194,
-      "dishes": ["Canh cua nấu chua", "Gà rang nghệ", "Đậu cove luộc", "Cà pháo", "Roi"],
+      "dishes": [
+        "Canh cua nấu chua",
+        "Gà rang nghệ",
+        "Đậu cove luộc",
+        "Cà pháo",
+        "Roi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/23-1739793287072868553945.jpg"
     },
     {
       "id": 195,
-      "dishes": ["Ngọn su luộc", "Thịt luộc", "Cá nục kho", "Kim chi", "Hồng xiêm"],
+      "dishes": [
+        "Ngọn su luộc",
+        "Thịt luộc",
+        "Cá nục kho",
+        "Kim chi",
+        "Hồng xiêm"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/34-1739793287212192340935.jpg"
     },
     {
       "id": 196,
-      "dishes": ["Rau rền luộc", "Tôm rim", "Đậu luộc", "Sake chiên chấm bơ đường", "Mận Bắc"],
+      "dishes": [
+        "Rau rền luộc",
+        "Tôm rim",
+        "Đậu luộc",
+        "Sake chiên chấm bơ đường",
+        "Mận Bắc"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/2/17/25-1739793287095956341841.jpg"
     },
     {
       "id": 197,
-      "dishes": ["Canh rau cải nấu tôm", "Thịt rán", "Xà lách chấm sốt cà chua", "Ổi hồng"],
+      "dishes": [
+        "Canh rau cải nấu tôm",
+        "Thịt rán",
+        "Xà lách chấm sốt cà chua",
+        "Ổi hồng"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2025/1/16/33676852514050429835784242682237133005443527n-1737024510071802331881-288-0-1454-1866-crop-17370264264821631059828.jpg"
     },
     {
       "id": 198,
-      "dishes": ["Trám đen om", "Măng", "Rau thơm", "Chẻo lạc", "Chả viên", "Canh rau vặt"],
+      "dishes": [
+        "Trám đen om",
+        "Măng",
+        "Rau thơm",
+        "Chẻo lạc",
+        "Chả viên",
+        "Canh rau vặt"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/41-1737381137762264285376.jpg"
     },
     {
       "id": 199,
-      "dishes": ["Canh chua cá", "Lươn om chuối đậu", "Rau cải xào", "Na dai"],
+      "dishes": [
+        "Canh chua cá",
+        "Lươn om chuối đậu",
+        "Rau cải xào",
+        "Na dai"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/canh-17373836119412021329104.jpg"
     },
     {
       "id": 200,
-      "dishes": ["Thịt vịt nấu giả cày", "Bánh đa gấc", "Trứng vịt lộn", "Xoài", "Bánh mì", "Rau thơm"],
+      "dishes": [
+        "Thịt vịt nấu giả cày",
+        "Bánh đa gấc",
+        "Trứng vịt lộn",
+        "Xoài",
+        "Bánh mì",
+        "Rau thơm"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/42-1737381137783817497823.jpg"
     },
     {
       "id": 201,
-      "dishes": ["Súp lơ luộc", "Cá basa kho tộ", "Canh chua trứng", "Cherry tráng miệng"],
+      "dishes": [
+        "Súp lơ luộc",
+        "Cá basa kho tộ",
+        "Canh chua trứng",
+        "Cherry tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/43-17373811377871441644473.jpg"
     },
     {
       "id": 202,
-      "dishes": ["Gà nấu xáo", "Thịt bò xào ớt chuông", "Rau dền luộc", "Mùng muối"],
+      "dishes": [
+        "Gà nấu xáo",
+        "Thịt bò xào ớt chuông",
+        "Rau dền luộc",
+        "Mùng muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/44-1737381137794671857615.jpg"
     },
     {
       "id": 203,
-      "dishes": ["Rau muống luộc", "Canh bí đỏ nấu xương", "Thịt trộn cà rốt chiên", "Dưa hấu tráng miệng"],
+      "dishes": [
+        "Rau muống luộc",
+        "Canh bí đỏ nấu xương",
+        "Thịt trộn cà rốt chiên",
+        "Dưa hấu tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/45-17373811377981904830827.jpg"
     },
     {
       "id": 204,
-      "dishes": ["Cua hấp", "Ngao hoa hấp", "Cá thu", "Canh ngao", "Dưa hấu"],
+      "dishes": [
+        "Cua hấp",
+        "Ngao hoa hấp",
+        "Cá thu",
+        "Canh ngao",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/46-17373811850471296913885.jpg"
     },
     {
       "id": 205,
-      "dishes": ["Chân dê hầm đu đủ", "Cá thu sốt cà chua", "Rau dền", "Dưa hấu"],
+      "dishes": [
+        "Chân dê hầm đu đủ",
+        "Cá thu sốt cà chua",
+        "Rau dền",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/47-1737381185058932935920.jpg"
     },
     {
       "id": 206,
-      "dishes": ["Cá cơm chiên mắm", "Salad", "Canh củ quả hầm xương", "Dưa hấu"],
+      "dishes": [
+        "Cá cơm chiên mắm",
+        "Salad",
+        "Canh củ quả hầm xương",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/48-17373811850862007704577.jpg"
     },
     {
       "id": 207,
-      "dishes": ["Thịt luộc", "Su su luộc", "Canh mướp mồng tơi", "Rau sống", "Quả roi"],
+      "dishes": [
+        "Thịt luộc",
+        "Su su luộc",
+        "Canh mướp mồng tơi",
+        "Rau sống",
+        "Quả roi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/49-17373811850911196121031.jpg"
     },
     {
       "id": 208,
-      "dishes": ["Đầu cá hấp dưa", "Đậu bắp luộc", "Canh cà", "Dưa hấu"],
+      "dishes": [
+        "Đầu cá hấp dưa",
+        "Đậu bắp luộc",
+        "Canh cà",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/50-17373811850971295874030.jpg"
     },
     {
       "id": 209,
-      "dishes": ["Thịt bò xào dưa", "Cải luộc chấm trứng", "Canh bí xương", "Cam tráng miệng"],
+      "dishes": [
+        "Thịt bò xào dưa",
+        "Cải luộc chấm trứng",
+        "Canh bí xương",
+        "Cam tráng miệng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/51-1737381215702709770367.jpg"
     },
     {
       "id": 210,
-      "dishes": ["Bò hầm", "Mùng muối chua", "Đậu luộc", "Cam"],
+      "dishes": [
+        "Bò hầm",
+        "Mùng muối chua",
+        "Đậu luộc",
+        "Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/52-17373812157071168107618.jpg"
     },
     {
       "id": 211,
-      "dishes": ["Trứng rán", "Đậu xào", "Canh mướp", "Khế ngọt"],
+      "dishes": [
+        "Trứng rán",
+        "Đậu xào",
+        "Canh mướp",
+        "Khế ngọt"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/53-17373812157111498665082.jpg"
     },
     {
       "id": 212,
-      "dishes": ["Cá kho", "Canh cá chua", "Rau củ muối", "Quýt"],
+      "dishes": [
+        "Cá kho",
+        "Canh cá chua",
+        "Rau củ muối",
+        "Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/54-17373812157321295834454.jpg"
     },
     {
       "id": 213,
-      "dishes": ["Thịt luộc", "Canh", "Bắp cải xào", "Cam"],
+      "dishes": [
+        "Thịt luộc",
+        "Canh",
+        "Bắp cải xào",
+        "Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/55-1737381215738303732925.jpg"
     },
     {
       "id": 214,
-      "dishes": ["Canh mướp mồng tơi", "Chả giò", "Phồng tôm", "Bầu luộc", "Dưa hấu"],
+      "dishes": [
+        "Canh mướp mồng tơi",
+        "Chả giò",
+        "Phồng tôm",
+        "Bầu luộc",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/56-1737381255935753975410.jpg"
     },
     {
       "id": 215,
-      "dishes": ["Thịt luộc", "Ngô", "Canh bí hầm", "Rau cải luộc", "Quýt"],
+      "dishes": [
+        "Thịt luộc",
+        "Ngô",
+        "Canh bí hầm",
+        "Rau cải luộc",
+        "Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/57-17373812559421155994218.jpg"
     },
     {
       "id": 216,
-      "dishes": ["Cá nục kho", "Rau dền luộc", "Canh chua", "Cam Vinh"],
+      "dishes": [
+        "Cá nục kho",
+        "Rau dền luộc",
+        "Canh chua",
+        "Cam Vinh"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/58-17373812559451925058661.jpg"
     },
     {
       "id": 217,
-      "dishes": ["Khoai tây luộc chấm vừng", "Cánh gà chiên mắm", "Canh mướp mồng tơi", "Bưởi"],
+      "dishes": [
+        "Khoai tây luộc chấm vừng",
+        "Cánh gà chiên mắm",
+        "Canh mướp mồng tơi",
+        "Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/59-1737381255970744128672.jpg"
     },
     {
       "id": 218,
-      "dishes": ["Tôm hấp", "Mướp đắng xào trứng", "Canh xương củ quả", "Ổi"],
+      "dishes": [
+        "Tôm hấp",
+        "Mướp đắng xào trứng",
+        "Canh xương củ quả",
+        "Ổi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/60-17373812559761484791417.jpg"
     },
     {
       "id": 219,
-      "dishes": ["Canh mướp nấu lạc", "Rau dền luộc", "Cá chiên", "Dưa lưới"],
+      "dishes": [
+        "Canh mướp nấu lạc",
+        "Rau dền luộc",
+        "Cá chiên",
+        "Dưa lưới"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/61-1737381281964492431701.jpg"
     },
     {
       "id": 220,
-      "dishes": ["Chả cuốn", "Rau sống chấm nước cà chua trứng", "Canh rau dền", "Bưởi"],
+      "dishes": [
+        "Chả cuốn",
+        "Rau sống chấm nước cà chua trứng",
+        "Canh rau dền",
+        "Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/62-1737381281974375089140.jpg"
     },
     {
       "id": 221,
-      "dishes": ["Nem rế", "Cà luộc", "Canh rau", "Rau sống", "Quả lựu"],
+      "dishes": [
+        "Nem rế",
+        "Cà luộc",
+        "Canh rau",
+        "Rau sống",
+        "Quả lựu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/63-17373812819791753494788.jpg"
     },
     {
       "id": 222,
-      "dishes": ["Sườn mặn ngọt", "Đậu luộc", "Canh cải thịt bằm", "Nho"],
+      "dishes": [
+        "Sườn mặn ngọt",
+        "Đậu luộc",
+        "Canh cải thịt bằm",
+        "Nho"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/64-17373812820111046984731.jpg"
     },
     {
       "id": 223,
-      "dishes": ["Su su luộc", "Chả viên sốt cà", "Canh rau dền", "Bưởi", "Táo"],
+      "dishes": [
+        "Su su luộc",
+        "Chả viên sốt cà",
+        "Canh rau dền",
+        "Bưởi",
+        "Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/65-1737381282019898061186.jpg"
     },
     {
       "id": 224,
-      "dishes": ["Thịt bò hấp", "Rau khoai xào", "Canh xương hầm củ quả", "Dưa hấu"],
+      "dishes": [
+        "Thịt bò hấp",
+        "Rau khoai xào",
+        "Canh xương hầm củ quả",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/66-17373813147741967565553.jpg"
     },
     {
       "id": 225,
-      "dishes": ["Sườn xào chua ngọt", "Bắp luộc", "Đậu luộc chấm ruốc chua", "Canh cải nấu sườn", "Bưởi"],
+      "dishes": [
+        "Sườn xào chua ngọt",
+        "Bắp luộc",
+        "Đậu luộc chấm ruốc chua",
+        "Canh cải nấu sườn",
+        "Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/67-1737381314779505715062.jpg"
     },
     {
       "id": 226,
-      "dishes": ["Cá hấp dưa", "Cải luộc chấm trứng", "Chuối"],
+      "dishes": [
+        "Cá hấp dưa",
+        "Cải luộc chấm trứng",
+        "Chuối"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/68-17373813148131561838039.jpg"
     },
     {
       "id": 227,
-      "dishes": ["Ớt chuông xào thịt bò", "Ngao hấp sả", "Canh cải cúc", "Thanh long"],
+      "dishes": [
+        "Ớt chuông xào thịt bò",
+        "Ngao hấp sả",
+        "Canh cải cúc",
+        "Thanh long"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/69-1737381314819155822498.jpg"
     },
     {
       "id": 228,
-      "dishes": ["Trứng rán", "Thịt xào", "Canh bí xương", "Dưa hấu"],
+      "dishes": [
+        "Trứng rán",
+        "Thịt xào",
+        "Canh bí xương",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/70-1737381314825427998966.jpg"
     },
     {
       "id": 229,
-      "dishes": ["Cà luộc chấm ruốc chua", "Cá trắm chiên", "Canh cà chua trứng", "Dưa lưới"],
+      "dishes": [
+        "Cà luộc chấm ruốc chua",
+        "Cá trắm chiên",
+        "Canh cà chua trứng",
+        "Dưa lưới"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/71-173738138848434217615.jpg"
     },
     {
       "id": 230,
-      "dishes": ["Gà xào sả ớt", "Khoai tây chiên", "Canh rau", "Bưởi"],
+      "dishes": [
+        "Gà xào sả ớt",
+        "Khoai tây chiên",
+        "Canh rau",
+        "Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/72-1737381388491450009074.jpg"
     },
     {
       "id": 231,
-      "dishes": ["Cá thu sốt", "Canh rau", "Bầu luộc", "Dưa hấu"],
+      "dishes": [
+        "Cá thu sốt",
+        "Canh rau",
+        "Bầu luộc",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/73-17373813884981568985729.jpg"
     },
     {
       "id": 232,
-      "dishes": ["Cá chiên", "Đậu bắp luộc", "Canh chua", "Khoai hấp", "Nhãn"],
+      "dishes": [
+        "Cá chiên",
+        "Đậu bắp luộc",
+        "Canh chua",
+        "Khoai hấp",
+        "Nhãn"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/74-17373813885031661774005.jpg"
     },
     {
       "id": 233,
-      "dishes": ["Gà đen hấp", "Canh củ quả hầm xương", "Dưa chuột", "Sắn", "Nho"],
+      "dishes": [
+        "Gà đen hấp",
+        "Canh củ quả hầm xương",
+        "Dưa chuột",
+        "Sắn",
+        "Nho"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/75-17373813885291396662218.jpg"
     },
     {
       "id": 234,
-      "dishes": ["Thịt luộc", "Rau cải xào", "Mướp đắng nhồi thịt", "Lê"],
+      "dishes": [
+        "Thịt luộc",
+        "Rau cải xào",
+        "Mướp đắng nhồi thịt",
+        "Lê"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/76-17373814215151970353945.jpg"
     },
     {
       "id": 235,
-      "dishes": ["Giò", "Canh cà chua", "Thịt xào ớt chuông", "Táo"],
+      "dishes": [
+        "Giò",
+        "Canh cà chua",
+        "Thịt xào ớt chuông",
+        "Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/77-1737381421548348805441.jpg"
     },
     {
       "id": 236,
-      "dishes": ["Chả giò", "Rau sống", "Canh rau bầu", "Bưởi"],
+      "dishes": [
+        "Chả giò",
+        "Rau sống",
+        "Canh rau bầu",
+        "Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/78-1737381421553136787533.jpg"
     },
     {
       "id": 237,
-      "dishes": ["Trứng chiên", "Canh cá", "Rau cải luộc", "Dưa hấu"],
+      "dishes": [
+        "Trứng chiên",
+        "Canh cá",
+        "Rau cải luộc",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/79-173738142155862836529.jpg"
     },
     {
       "id": 238,
-      "dishes": ["Gà nấu xáo", "Trứng vịt lộn", "Đậu bắp luộc", "Măng cay", "Dưa hấu"],
+      "dishes": [
+        "Gà nấu xáo",
+        "Trứng vịt lộn",
+        "Đậu bắp luộc",
+        "Măng cay",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/80-1737381421565424112778.jpg"
     },
     {
       "id": 239,
-      "dishes": ["Thịt bò xào", "Canh rau mướp", "Rau cải", "Cà muối"],
+      "dishes": [
+        "Thịt bò xào",
+        "Canh rau mướp",
+        "Rau cải",
+        "Cà muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/81-17373814462181135134163.jpg"
     },
     {
       "id": 240,
-      "dishes": ["Trứng chiên", "Canh bí hầm xương", "Su su luộc", "Táo"],
+      "dishes": [
+        "Trứng chiên",
+        "Canh bí hầm xương",
+        "Su su luộc",
+        "Táo"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/82-1737381446224890709816.jpg"
     },
     {
       "id": 241,
-      "dishes": ["Cá chiên", "Mướp xào trứng non", "Dưa muối", "Canh rau", "Roi"],
+      "dishes": [
+        "Cá chiên",
+        "Mướp xào trứng non",
+        "Dưa muối",
+        "Canh rau",
+        "Roi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/83-1737381446228976543740.jpg"
     },
     {
       "id": 242,
-      "dishes": ["Sườn", "Rau mít xào", "Canh rau", "Cà muối", "Dưa hấu"],
+      "dishes": [
+        "Sườn",
+        "Rau mít xào",
+        "Canh rau",
+        "Cà muối",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/84-1737381446233625599095.jpg"
     },
     {
       "id": 243,
-      "dishes": ["Thịt gà hấp lá chanh", "Cháo", "Hành"],
+      "dishes": [
+        "Thịt gà hấp lá chanh",
+        "Cháo",
+        "Hành"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/85-17373814462572035121050.jpg"
     },
     {
       "id": 244,
-      "dishes": ["Bò xào đậu", "Cá cơm kho tiêu", "Canh cải", "Dưa lê"],
+      "dishes": [
+        "Bò xào đậu",
+        "Cá cơm kho tiêu",
+        "Canh cải",
+        "Dưa lê"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/86-1737381482276698911317.jpg"
     },
     {
       "id": 245,
-      "dishes": ["Thịt kho trứng cút", "Bắp cải xào", "Canh bí xương"],
+      "dishes": [
+        "Thịt kho trứng cút",
+        "Bắp cải xào",
+        "Canh bí xương"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/87-1737381482298956811483.jpg"
     },
     {
       "id": 246,
-      "dishes": ["Gà chiên mắm", "Trứng vịt lộn", "Canh cải cúc", "Rau sống", "Mít"],
+      "dishes": [
+        "Gà chiên mắm",
+        "Trứng vịt lộn",
+        "Canh cải cúc",
+        "Rau sống",
+        "Mít"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/88-1737381482303382087999.jpg"
     },
     {
       "id": 247,
-      "dishes": ["Gà luộc", "Cà luộc", "Canh khoai sọ hầm xương", "Roi"],
+      "dishes": [
+        "Gà luộc",
+        "Cà luộc",
+        "Canh khoai sọ hầm xương",
+        "Roi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/89-17373814823062084770723.jpg"
     },
     {
       "id": 248,
-      "dishes": ["Thịt luộc", "Rau cải xào", "Canh rau mướp", "Rau sống", "Mít"],
+      "dishes": [
+        "Thịt luộc",
+        "Rau cải xào",
+        "Canh rau mướp",
+        "Rau sống",
+        "Mít"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/90-1737381482311528476476.jpg"
     },
     {
       "id": 249,
-      "dishes": ["Trứng chiên", "Đậu xào bò", "Canh rau", "Ngô", "Dưa hấu"],
+      "dishes": [
+        "Trứng chiên",
+        "Đậu xào bò",
+        "Canh rau",
+        "Ngô",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/91-1737381512131845387612.jpg"
     },
     {
       "id": 250,
-      "dishes": ["Nem rán", "Bí non xào tỏi", "Canh rau muống", "Măng chua"],
+      "dishes": [
+        "Nem rán",
+        "Bí non xào tỏi",
+        "Canh rau muống",
+        "Măng chua"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/92-17373815121561818023134.jpg"
     },
     {
       "id": 251,
-      "dishes": ["Cá bạc má sốt cà", "Sung muối", "Rau dền", "Cà muối", "Canh rau"],
+      "dishes": [
+        "Cá bạc má sốt cà",
+        "Sung muối",
+        "Rau dền",
+        "Cà muối",
+        "Canh rau"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/93-17373815121601215709590.jpg"
     },
     {
       "id": 252,
-      "dishes": ["Bánh sắn", "Canh cua", "Măng cay", "Chả chiên"],
+      "dishes": [
+        "Bánh sắn",
+        "Canh cua",
+        "Măng cay",
+        "Chả chiên"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/94-1737381512164479655541.jpg"
     },
     {
       "id": 253,
-      "dishes": ["Gà rang", "Cà luộc", "Canh rau dền", "Xoài"],
+      "dishes": [
+        "Gà rang",
+        "Cà luộc",
+        "Canh rau dền",
+        "Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/95-1737381512168271126482.jpg"
     },
     {
       "id": 254,
-      "dishes": ["Cá kho", "Canh xương khoai tây", "Gỏi đu đủ", "Trứng luộc", "Dưa hấu"],
+      "dishes": [
+        "Cá kho",
+        "Canh xương khoai tây",
+        "Gỏi đu đủ",
+        "Trứng luộc",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/96-17373815535081618845990.jpg"
     },
     {
       "id": 255,
-      "dishes": ["Nem rán", "Lạc luộc", "Rau bầu xào tỏi", "Canh bí xương", "Rau sống"],
+      "dishes": [
+        "Nem rán",
+        "Lạc luộc",
+        "Rau bầu xào tỏi",
+        "Canh bí xương",
+        "Rau sống"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/97-17373815535211919941736.jpg"
     },
     {
       "id": 256,
-      "dishes": ["Ngọn mồng tơi xào", "Cá chiên", "Canh hẹ nấu trứng", "Ớt chuông"],
+      "dishes": [
+        "Ngọn mồng tơi xào",
+        "Cá chiên",
+        "Canh hẹ nấu trứng",
+        "Ớt chuông"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/98-17373815535512036006858.jpg"
     },
     {
       "id": 257,
-      "dishes": ["Sườn", "Rau dền", "Canh bí thịt băm", "Dưa hấu"],
+      "dishes": [
+        "Sườn",
+        "Rau dền",
+        "Canh bí thịt băm",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/99-1737381553563960260312.jpg"
     },
     {
       "id": 258,
-      "dishes": ["Bò xào dưa", "Ngao hấp", "Canh cải", "Sữa chua"],
+      "dishes": [
+        "Bò xào dưa",
+        "Ngao hấp",
+        "Canh cải",
+        "Sữa chua"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/100-1737381553586946722415.jpg"
     },
     {
       "id": 259,
-      "dishes": ["Trứng lộn om bầu", "Bánh đa", "Thịt luộc"],
+      "dishes": [
+        "Trứng lộn om bầu",
+        "Bánh đa",
+        "Thịt luộc"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/101-1737381590806644479883.jpg"
     },
     {
       "id": 260,
-      "dishes": ["Thịt luộc", "Cá nấu"],
+      "dishes": [
+        "Thịt luộc",
+        "Cá nấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/102-1737381590809426889725.jpg"
     },
     {
       "id": 261,
-      "dishes": ["Thịt kho nghệ", "Canh cà", "Canh cải", "Sữa chua"],
+      "dishes": [
+        "Thịt kho nghệ",
+        "Canh cà",
+        "Canh cải",
+        "Sữa chua"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/103-17373815908131531673065.jpg"
     },
     {
       "id": 262,
-      "dishes": ["Canh mướp mồng tơi", "Cá chiên", "Đậu bắp luộc", "Mít"],
+      "dishes": [
+        "Canh mướp mồng tơi",
+        "Cá chiên",
+        "Đậu bắp luộc",
+        "Mít"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/104-17373815908171180833992.jpg"
     },
     {
       "id": 263,
-      "dishes": ["Canh mướp đắng thịt bằm", "Thịt bò xào bí", "Rau dền luộc", "Mận"],
+      "dishes": [
+        "Canh mướp đắng thịt bằm",
+        "Thịt bò xào bí",
+        "Rau dền luộc",
+        "Mận"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/105-1737381590838900788152.jpg"
     },
     {
       "id": 264,
-      "dishes": ["Cá sốt cà chua", "Bắp cải luộc", "Canh bí hầm xương", "Dưa hấu"],
+      "dishes": [
+        "Cá sốt cà chua",
+        "Bắp cải luộc",
+        "Canh bí hầm xương",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/106-17373816328811966721893.jpg"
     },
     {
       "id": 265,
-      "dishes": ["Trứng chiên hẹ", "Chả viên", "Rau muống", "Mận"],
+      "dishes": [
+        "Trứng chiên hẹ",
+        "Chả viên",
+        "Rau muống",
+        "Mận"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/107-17373816329041436807818.jpg"
     },
     {
       "id": 266,
-      "dishes": ["Gà rang", "Rau dền luộc", "Canh cải thịt băm", "Sung muối"],
+      "dishes": [
+        "Gà rang",
+        "Rau dền luộc",
+        "Canh cải thịt băm",
+        "Sung muối"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/108-17373816329121000134542.jpg"
     },
     {
       "id": 267,
-      "dishes": ["Nem rán", "Thịt luộc", "Dưa chuột", "Rau sống"],
+      "dishes": [
+        "Nem rán",
+        "Thịt luộc",
+        "Dưa chuột",
+        "Rau sống"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/109-17373816329161537359330.jpg"
     },
     {
       "id": 268,
-      "dishes": ["Tôm hấp", "Rau cải bắp", "Canh ngao chua"],
+      "dishes": [
+        "Tôm hấp",
+        "Rau cải bắp",
+        "Canh ngao chua"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/110-17373816329201447431003.jpg"
     },
     {
       "id": 269,
-      "dishes": ["Thịt kho nghệ", "Trứng chiên hẹ", "Rau luộc", "Sung muối", "Dưa hấu"],
+      "dishes": [
+        "Thịt kho nghệ",
+        "Trứng chiên hẹ",
+        "Rau luộc",
+        "Sung muối",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/111-17373816613311227231268.jpg"
     },
     {
       "id": 270,
-      "dishes": ["Gà chiên mắm", "Canh cải cúc", "Mít xào", "Sung muối", "Cam"],
+      "dishes": [
+        "Gà chiên mắm",
+        "Canh cải cúc",
+        "Mít xào",
+        "Sung muối",
+        "Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/112-1737381661336430622718.jpg"
     },
     {
       "id": 271,
-      "dishes": ["Thịt quay", "Sung muối", "Rau sống", "Canh rau", "Dưa hấu"],
+      "dishes": [
+        "Thịt quay",
+        "Sung muối",
+        "Rau sống",
+        "Canh rau",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/113-17373816613401194666421.jpg"
     },
     {
       "id": 272,
-      "dishes": ["Rau muống xào", "Thịt nướng", "Canh bí hầm xương", "Dưa hấu"],
+      "dishes": [
+        "Rau muống xào",
+        "Thịt nướng",
+        "Canh bí hầm xương",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/114-17373816613681248387511.jpg"
     },
     {
       "id": 273,
-      "dishes": ["Canh mướp đắng", "Rau cải xào", "Thịt kho", "Hồng"],
+      "dishes": [
+        "Canh mướp đắng",
+        "Rau cải xào",
+        "Thịt kho",
+        "Hồng"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/20/115-17373816613731930201923.jpg"
     },
     {
       "id": 274,
-      "dishes": ["Thịt luộc", "Đậu xào", "Canh bí thịt bằm", "Dưa hấu"],
+      "dishes": [
+        "Thịt luộc",
+        "Đậu xào",
+        "Canh bí thịt bằm",
+        "Dưa hấu"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2024/5/8/edit-anh-dai-dien-2-1715162612886742709041-67-0-570-805-crop-1715162645854998198738.png"
     },
     {
       "id": 275,
-      "dishes": ["Thịt vịt khìa nước dừa", "Cà pháo muối xổi", "Dưa leo", "Rau củ luộc", "Quýt"],
+      "dishes": [
+        "Thịt vịt khìa nước dừa",
+        "Cà pháo muối xổi",
+        "Dưa leo",
+        "Rau củ luộc",
+        "Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/337138588239604241878329959427938398952046n-1-17370245105011086707067.jpg"
     },
     {
       "id": 276,
-      "dishes": ["Kho quẹt", "Rau củ"],
+      "dishes": [
+        "Kho quẹt",
+        "Rau củ"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/337003504874129993676018433883351441343790n-1-17370245103381707595745.jpg"
     },
     {
       "id": 277,
-      "dishes": ["Cá diêu hồng chiên", "Canh chua cá diêu hồng", "Rau xà lách", "Vú sữa"],
+      "dishes": [
+        "Cá diêu hồng chiên",
+        "Canh chua cá diêu hồng",
+        "Rau xà lách",
+        "Vú sữa"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3371318845211176566417085922688037096622640n-17370245104551651583373.jpg"
     },
     {
       "id": 278,
-      "dishes": ["Cá nục kho", "Khổ qua xào trứng", "Canh bắp cải cuộn thịt bằm", "Rau câu thanh long đỏ"],
+      "dishes": [
+        "Cá nục kho",
+        "Khổ qua xào trứng",
+        "Canh bắp cải cuộn thịt bằm",
+        "Rau câu thanh long đỏ"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3366594458836056160521202397549672846361492n-1737024510045442450989.jpg"
     },
     {
       "id": 279,
-      "dishes": ["Trứng gà ngâm tương", "Bắp cải luộc", "Canh dưa cải chua sườn non", "Cam"],
+      "dishes": [
+        "Trứng gà ngâm tương",
+        "Bắp cải luộc",
+        "Canh dưa cải chua sườn non",
+        "Cam"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/336887860574330161330357967106083554883645n-1737024510240929165562.jpg"
     },
     {
       "id": 280,
-      "dishes": ["Lạp xưởng rim nước dừa", "Dưa leo", "Canh cải bó xôi thịt nạc", "Roi"],
+      "dishes": [
+        "Lạp xưởng rim nước dừa",
+        "Dưa leo",
+        "Canh cải bó xôi thịt nạc",
+        "Roi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/33701808663013626893658188933556558253778n-1-17370245104261805748910.jpg"
     },
     {
       "id": 281,
-      "dishes": ["Đậu hũ non sốt thịt bằm", "Rau cải ngọt xào tỏi", "Canh rau cải ngọt thịt bằm", "Thanh long"],
+      "dishes": [
+        "Đậu hũ non sốt thịt bằm",
+        "Rau cải ngọt xào tỏi",
+        "Canh rau cải ngọt thịt bằm",
+        "Thanh long"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3370360411930049967734958281209380972005252n-17370245104361676620206.jpg"
     },
     {
       "id": 282,
-      "dishes": ["Đậu hũ sốt cà chua", "Nấm kim châm hấp nước tương", "Rau muống luộc", "Nước rau luộc dầm cà chua", "Củ sắn"],
+      "dishes": [
+        "Đậu hũ sốt cà chua",
+        "Nấm kim châm hấp nước tương",
+        "Rau muống luộc",
+        "Nước rau luộc dầm cà chua",
+        "Củ sắn"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/33727807410096904200055144167238146415035565n-17370245107841609155054.jpg"
     },
     {
       "id": 283,
-      "dishes": ["Gà kho sả ớt", "Cà tím nướng mỡ hành", "Canh khoai tây cà rốt nấu thịt gà", "Xoài"],
+      "dishes": [
+        "Gà kho sả ớt",
+        "Cà tím nướng mỡ hành",
+        "Canh khoai tây cà rốt nấu thịt gà",
+        "Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/33741464612200180386842163511892997178720328n-17370245108441928091394.jpg"
     },
     {
       "id": 284,
-      "dishes": ["Chả lụa rim nước tương", "Rau xà lách kèm dưa leo", "Canh rau cải nấu gừng", "Dứa"],
+      "dishes": [
+        "Chả lụa rim nước tương",
+        "Rau xà lách kèm dưa leo",
+        "Canh rau cải nấu gừng",
+        "Dứa"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/33680807912744909501448187435529415183332176n-1-17370245100901596758522.jpg"
     },
     {
       "id": 285,
-      "dishes": ["Cá ngừ kho thơm cà", "Bầu luộc", "Canh rau cải nấu mọc", "Ổi"],
+      "dishes": [
+        "Cá ngừ kho thơm cà",
+        "Bầu luộc",
+        "Canh rau cải nấu mọc",
+        "Ổi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3369871075352883452973137264856524620230337n-1737024510278926689261.jpg"
     },
     {
       "id": 286,
-      "dishes": ["Sườn cốt lết rim nước dừa", "Dưa leo", "Canh bí xanh nấu mọc", "Cà pháo mắm nêm", "Quýt"],
+      "dishes": [
+        "Sườn cốt lết rim nước dừa",
+        "Dưa leo",
+        "Canh bí xanh nấu mọc",
+        "Cà pháo mắm nêm",
+        "Quýt"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3369956005790007375916901417220709836799730n-17370245103131322148492.jpg"
     },
     {
       "id": 287,
-      "dishes": ["Thịt ba chỉ rang cháy cạnh", "Cà tím, nấm đùi gà xào lá quế", "Canh rau mồng tơi tôm tươi", "Xoài"],
+      "dishes": [
+        "Thịt ba chỉ rang cháy cạnh",
+        "Cà tím, nấm đùi gà xào lá quế",
+        "Canh rau mồng tơi tôm tươi",
+        "Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/336551897592107592827722318184928725848573n-17370245100211535089688.jpg"
     },
     {
       "id": 288,
-      "dishes": ["Chả cá nhồng chiên", "Dưa leo", "Canh chua chả cá nhồng", "Trái táo xanh"],
+      "dishes": [
+        "Chả cá nhồng chiên",
+        "Dưa leo",
+        "Canh chua chả cá nhồng",
+        "Trái táo xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/33704370661947859272465861986635688882783435n-17370245104451921839897.jpg"
     },
     {
       "id": 289,
-      "dishes": ["Thịt heo quay kho cải chua", "Rau cải thảo xào tỏi", "Canh rau mồng tơi tôm tươi", "Cà pháo mắm nêm", "Trái nho xanh"],
+      "dishes": [
+        "Thịt heo quay kho cải chua",
+        "Rau cải thảo xào tỏi",
+        "Canh rau mồng tơi tôm tươi",
+        "Cà pháo mắm nêm",
+        "Trái nho xanh"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3372935497489370034008888682544364846172728n-1737024510809857916983.jpg"
     },
     {
       "id": 290,
-      "dishes": ["Cá đổng chiên giòn", "Ớt chuông xào thịt bò", "Canh rau cải thảo nấu thịt bằm", "Cà pháo mắm nêm", "Xoài"],
+      "dishes": [
+        "Cá đổng chiên giòn",
+        "Ớt chuông xào thịt bò",
+        "Canh rau cải thảo nấu thịt bằm",
+        "Cà pháo mắm nêm",
+        "Xoài"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/336535357537804191818540752305751868256748n-17370245099041935337771.jpg"
     },
     {
       "id": 291,
-      "dishes": ["Đậu hũ non chiên chà bông", "Rau dền luộc", "Nước rau luộc", "Vú sữa"],
+      "dishes": [
+        "Đậu hũ non chiên chà bông",
+        "Rau dền luộc",
+        "Nước rau luộc",
+        "Vú sữa"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3368566759396881305219097154842559071051005n-1737024510226674925036.jpg"
     },
     {
       "id": 292,
-      "dishes": ["Xíu mại trứng cút sốt cà", "Đọt su xào tỏi", "Cà pháo mắm nêm", "Canh khổ qua thịt bằm", "Củ đậu"],
+      "dishes": [
+        "Xíu mại trứng cút sốt cà",
+        "Đọt su xào tỏi",
+        "Cà pháo mắm nêm",
+        "Canh khổ qua thịt bằm",
+        "Củ đậu"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/33715825712551448384277477169714141596788932n-1737024510720320926378.jpg"
     },
     {
       "id": 293,
-      "dishes": ["Xíu mại trứng cút sốt cà", "Đọt su xào tỏi", "Cà pháo mắm nêm", "Canh khổ qua thịt bằm", "Bưởi"],
+      "dishes": [
+        "Xíu mại trứng cút sốt cà",
+        "Đọt su xào tỏi",
+        "Cà pháo mắm nêm",
+        "Canh khổ qua thịt bằm",
+        "Bưởi"
+      ],
       "image": "https://giadinh.mediacdn.vn/thumb_w/640/296230595582509056/2025/1/16/3372472931302713164969011271750101683372619n-1737024510761601679790.jpg"
     },
     {
       "id": 294,
-      "dishes": ["Thịt ba chỉ kho mắm ruốc", "Dưa leo kèm cà pháo", "Canh bí đỏ sườn non", "Ổi"],
+      "dishes": [
+        "Thịt ba chỉ kho mắm ruốc",
+        "Dưa leo kèm cà pháo",
+        "Canh bí đỏ sườn non",
+        "Ổi"
+      ],
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2024/4/12/mam-com-gia-dinh-2-1712906160837396932486-23-0-467-710-crop-17129061757062085115116.png"
+    },
+    {
+      "id": 295,
+      "dishes": [
+        "Trám kho thịt",
+        "Rau cải luộc",
+        "Bắp cải xào"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-12-1721362905-780-width2048height2032.jpg"
+    },
+    {
+      "id": 296,
+      "dishes": [
+        "Vịt luộc",
+        "Canh măng",
+        "Rau củ luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-14-1721362906-981-width1920height1984.jpg"
+    },
+    {
+      "id": 297,
+      "dishes": [
+        "Canh cá",
+        "Rau quả luộc",
+        "Đậu chiên sả",
+        "Salad"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-1-1721362904-394-width2006height1900.jpg"
+    },
+    {
+      "id": 298,
+      "dishes": [
+        "Cà xào rau thơm",
+        "Tim lợn xào nấm",
+        "Rau luộc",
+        "Nho sữa"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-2-1721362904-742-width1978height2048.jpg"
+    },
+    {
+      "id": 299,
+      "dishes": [
+        "Nem chay",
+        "Canh cá",
+        "Đậu rán"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-3-1721362904-151-width2048height2024.jpg"
+    },
+    {
+      "id": 300,
+      "dishes": [
+        "Salad",
+        "Đỗ đũa xào nấm mỡ, tim heo",
+        "Lặc lè luộc chấm muối vừng",
+        "Nho"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-5-1721362905-620-width1964height2048.jpg"
+    },
+    {
+      "id": 301,
+      "dishes": [
+        "Cải chíp xào nấm hương",
+        "Sườn xào rau củ",
+        "Dưa hấu"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-7-1721362905-785-width2048height2028.jpg"
+    },
+    {
+      "id": 302,
+      "dishes": [
+        "Canh rong biển đậu phụ",
+        "Cà tím xào",
+        "Tim heo xào ớt chuông",
+        "Măng cụt"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-8-1721362905-789-width1926height2048.jpg"
+    },
+    {
+      "id": 303,
+      "dishes": [
+        "Ức gà sốt",
+        "Cải chíp xào",
+        "Salad",
+        "Dâu tây"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-9-1721362905-399-width1846height2048.jpg"
+    },
+    {
+      "id": 304,
+      "dishes": [
+        "Thịt lợn sốt cà chua",
+        "Bắp cải luộc",
+        "Salad",
+        "Mít"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-10-1721362905-968-width1982height2048.jpg"
+    },
+    {
+      "id": 305,
+      "dishes": [
+        "Sườn heo rim",
+        "Lặc lè luộc",
+        "Dâu tây"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-11-1721362905-664-width2038height2048.jpg"
+    },
+    {
+      "id": 306,
+      "dishes": [
+        "Cá hấp bia",
+        "Bí xào",
+        "Dưa hấu"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-13-1721362906-206-width1140height1280.jpg"
+    },
+    {
+      "id": 307,
+      "dishes": [
+        "Canh xương hầm rau củ",
+        "Thịt ba chỉ nướng",
+        "Thanh long"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-16-1721362906-605-width2048height2038.jpg"
+    },
+    {
+      "id": 308,
+      "dishes": [
+        "Củ dền luộc",
+        "Sườn xào rau củ",
+        "Canh rau cải"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-17-1721362906-162-width1984height2048.jpg"
+    },
+    {
+      "id": 309,
+      "dishes": [
+        "Vịt om sấu",
+        "Trứng xào thập cẩm",
+        "Rau củ luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-18-1721362906-486-width2048height1536.jpg"
+    },
+    {
+      "id": 310,
+      "dishes": [
+        "Trứng rán",
+        "Tim xào rau củ",
+        "Củ quả luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-20-1721362906-411-width2014height2048.jpg"
+    },
+    {
+      "id": 311,
+      "dishes": [
+        "Cá sốt cà chua",
+        "Trứng ốp",
+        "Củ quả luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-21-1721362906-159-width1980height2048.jpg"
+    },
+    {
+      "id": 312,
+      "dishes": [
+        "Cá kho măng",
+        "Canh củ sen"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-22-1721362907-495-width1928height2048.jpg"
+    },
+    {
+      "id": 313,
+      "dishes": [
+        "Đậu phụ sốt",
+        "Trứng xào mướp đắng",
+        "Canh củ sen"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-23-1721362907-210-width1964height2048.jpg"
+    },
+    {
+      "id": 314,
+      "dishes": [
+        "Đậu sốt cà chua",
+        "Tôm xào rau củ",
+        "Mướp đắng xào trứng"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-25-1721362907-535-width2048height1536.jpg"
+    },
+    {
+      "id": 315,
+      "dishes": [
+        "Nộm đu đủ, cà rốt",
+        "Rau cần xào thịt bò",
+        "Bưởi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-26-1721362907-301-width2048height1536.jpg"
+    },
+    {
+      "id": 316,
+      "dishes": [
+        "Canh tôm",
+        "Gà nướng",
+        "Hành muối",
+        "Nấm xào thịt gà",
+        "Thanh long"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-27-1721362907-596-width2048height1462.jpg"
+    },
+    {
+      "id": 317,
+      "dishes": [
+        "Nem tai",
+        "Dưa xào thịt bò",
+        "Ngọn su su xào",
+        "Dưa chuột"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-28-1721362907-221-width2048height1550.jpg"
+    },
+    {
+      "id": 318,
+      "dishes": [
+        "Canh cua",
+        "Đậu phụ chiên mắm",
+        "Gà chiên mắm",
+        "Thịt rang cháy cạnh"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-29-1721362907-42-width2048height1536.jpg"
+    },
+    {
+      "id": 319,
+      "dishes": [
+        "Rau muống xào thịt trâu",
+        "Canh bồng khoai nấu với sườn",
+        "Xoài xanh"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-19/Thuc-don-hang-ngay-30-1721362907-995-width2048height1494.jpg"
+    },
+    {
+      "id": 320,
+      "dishes": [
+        "Thịt quay giòn bì",
+        "Canh cải",
+        "Rau củ luộc châm muối lạc",
+        "Lựu"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/1-1764744050-13-width2048height1536.jpg"
+    },
+    {
+      "id": 321,
+      "dishes": [
+        "Ghẹ luộc",
+        "Canh rau tập tàng",
+        "Ốc luộc",
+        "Cá bạc má nấu rau vông vang"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/2-1764744050-275-width2048height1536.jpg"
+    },
+    {
+      "id": 322,
+      "dishes": [
+        "Canh nấu bề bề",
+        "Bánh rán vừng",
+        "Tôm rang thịt"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/6-1764744051-418-width2048height1536.jpg"
+    },
+    {
+      "id": 323,
+      "dishes": [
+        "Sườn rim",
+        "Tép khô rang",
+        "Rau cải luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/7-1764744051-665-width1618height2048.jpg"
+    },
+    {
+      "id": 324,
+      "dishes": [
+        "Đậu chiên sả ớt",
+        "Canh chua đầu cá",
+        "Táo"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/8-1764744051-391-width2048height1232.jpg"
+    },
+    {
+      "id": 325,
+      "dishes": [
+        "Vịt kho sả",
+        "Cà muối chua ngọt",
+        "Rau muống luộc",
+        "Mía"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/9-1764744051-626-width2048height1536.jpg"
+    },
+    {
+      "id": 326,
+      "dishes": [
+        "Cá chiên",
+        "Bắp cải xào cà chua",
+        "Muối lạc",
+        "Quýt"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/11-1764744051-393-width2048height1536.jpg"
+    },
+    {
+      "id": 327,
+      "dishes": [
+        "Bò hầm khoai tây, cà rốt",
+        "Canh bí",
+        "Trứng rán",
+        "Lựu, quýt"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/12-1764744051-866-width2048height1536.jpg"
+    },
+    {
+      "id": 328,
+      "dishes": [
+        "Canh cua",
+        "Thịt băm",
+        "Nem chay",
+        "Cam"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/14-1764744052-943-width2048height1536.jpg"
+    },
+    {
+      "id": 329,
+      "dishes": [
+        "Cá kho",
+        "Cá chiên",
+        "Canh cua"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/15-1764744052-727-width2048height1536.jpg"
+    },
+    {
+      "id": 330,
+      "dishes": [
+        "Gà chiên xốt cay ngọt",
+        "Canh bí xanh nấu mọc",
+        "Lê"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/17-1764744052-754-width2048height1536.jpg"
+    },
+    {
+      "id": 331,
+      "dishes": [
+        "Canh rau nấu bề bề",
+        "Cá kho",
+        "Đậu tẩm hành"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/18-1764744052-69-width2048height1536.jpg"
+    },
+    {
+      "id": 332,
+      "dishes": [
+        "Trứng vịt lộn nấu bầu",
+        "Thịt luộc",
+        "Củ đậu"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/20-1764744052-962-width1884height2048.jpg"
+    },
+    {
+      "id": 333,
+      "dishes": [
+        "Đậu phụ nhồi thịt xốt cà chua",
+        "Chả đậu phụ",
+        "Canh cua mồng tơi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/22-1764744052-46-width1536height2048.jpg"
+    },
+    {
+      "id": 334,
+      "dishes": [
+        "Thịt kho tàu",
+        "Bắp cải luộc",
+        "Ổi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/25-1764744053-678-width2048height1536.jpg"
+    },
+    {
+      "id": 335,
+      "dishes": [
+        "Thịt luộc chấm mắm tép",
+        "Nộm chân vịt",
+        "Canh rau ngót"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/26-1764744053-342-width2048height1536.jpg"
+    },
+    {
+      "id": 336,
+      "dishes": [
+        "Cơm đáy nồi",
+        "Kho quẹt",
+        "Rau củ luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-03/28-1764744053-386-width2048height1536.jpg"
+    },
+    {
+      "id": 337,
+      "dishes": [
+        "Thịt quay giòn bì",
+        "Canh sườn bí",
+        "Dưa muối",
+        "Hồng dẻo"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/1-1764548314-412-width2048height1976.jpg"
+    },
+    {
+      "id": 338,
+      "dishes": [
+        "Thịt gà luộc",
+        "Canh củ sen nấm rơm",
+        "Đỗ xào lòng mề",
+        "Đu đủ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/2-1764548314-232-width2030height2048.jpg"
+    },
+    {
+      "id": 339,
+      "dishes": [
+        "Bún nem",
+        "Cốm xào"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/4-1764548314-812-width2048height1765.jpg"
+    },
+    {
+      "id": 340,
+      "dishes": [
+        "Mì gà ác tần",
+        "Snack khoai tây"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/6-1764548314-182-width2048height1226.jpg"
+    },
+    {
+      "id": 341,
+      "dishes": [
+        "Cá thu xốt mắm tiêu",
+        "Canh cà tím",
+        "Chả mỡ",
+        "Quýt"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/7-1764548314-312-width2048height1810.jpg"
+    },
+    {
+      "id": 342,
+      "dishes": [
+        "Sườn rán",
+        "Đậu phụ",
+        "Đỗ luộc",
+        "Phồng tôm"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/9-1764548314-176-width2048height2044.jpg"
+    },
+    {
+      "id": 343,
+      "dishes": [
+        "Cá nục kho",
+        "Trứng rán",
+        "Ngồng cải luộc",
+        "Dưa hấu"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-01/12-1764548315-634-width2048height1834.jpg"
+    },
+    {
+      "id": 344,
+      "dishes": [
+        "Cánh gà chiên mắm",
+        "Bắp cải xào thịt bò",
+        "Giò luộc",
+        "Canh rau cải cúc nấu mọc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/1-1764916737-862-width2048height1536.jpg"
+    },
+    {
+      "id": 345,
+      "dishes": [
+        "Rau muống luộc",
+        "Thịt bò xào dưa chua",
+        "Thịt rang",
+        "Nước canh rau muống luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/2-1764916737-350-width2048height1536.jpg"
+    },
+    {
+      "id": 346,
+      "dishes": [
+        "Ruốc bông",
+        "Rau cải xào",
+        "Thịt bò luộc",
+        "Canh xương củ quả"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/3-1764916737-686-width2048height1536.jpg"
+    },
+    {
+      "id": 347,
+      "dishes": [
+        "Canh xương bí đỏ",
+        "Chả cuốn",
+        "Bắp cải xào",
+        "Cá thu rán"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/4-1764916738-939-width2048height1536.jpg"
+    },
+    {
+      "id": 348,
+      "dishes": [
+        "Cá rô phi rán",
+        "Bắp cải luộc",
+        "Gà rang sả",
+        "Nước rau luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/5-1764916738-22-width2048height1536.jpg"
+    },
+    {
+      "id": 349,
+      "dishes": [
+        "Giò hấp",
+        "Thịt hộp kho trứng cút",
+        "Nhút xào",
+        "Canh dưa chua thịt bò"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/6-1764916738-595-width2048height1536.jpg"
+    },
+    {
+      "id": 350,
+      "dishes": [
+        "Mướp xào lòng gà",
+        "Thịt hộp",
+        "Trứng rán",
+        "Ngao hấp"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/7-1764916738-137-width2048height1536.jpg"
+    },
+    {
+      "id": 351,
+      "dishes": [
+        "Giò gân",
+        "Ốc xào cà",
+        "Canh cà chua gân bò",
+        "Rau cải luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/8-1764916738-620-width2048height1536.jpg"
+    },
+    {
+      "id": 352,
+      "dishes": [
+        "Mực hấp",
+        "Đậu xào",
+        "Giò gân",
+        "Canh mọc rau ngót",
+        "Nộm chân vịt"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/9-1764916738-444-width2048height1536.jpg"
+    },
+    {
+      "id": 353,
+      "dishes": [
+        "Cá rô phi nướng",
+        "Giò luộc",
+        "Rau muống luộc",
+        "Nước canh rau luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/10-1764916738-738-width2048height1536.jpg"
+    },
+    {
+      "id": 354,
+      "dishes": [
+        "Trứng rán là mơ",
+        "Rau sống chấm sốt tép biển",
+        "Canh rau ngót nấu mọc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/11-1764916738-598-width2048height1536.jpg"
+    },
+    {
+      "id": 355,
+      "dishes": [
+        "Cánh gà chiên mắm",
+        "Trứng vịt lộn luộc",
+        "Nước canh rau"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/12-1764916738-173-width2048height1536.jpg"
+    },
+    {
+      "id": 356,
+      "dishes": [
+        "Tép biển sốt cà chua",
+        "Rau sống",
+        "Bê xào sả ớt",
+        "Canh mọc nấu rau cải cúc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/13-1764916738-319-width2048height1536.jpg"
+    },
+    {
+      "id": 357,
+      "dishes": [
+        "Nộm thịt bò rau càng cua",
+        "Tôm hấp",
+        "Tôm cuốn rế chiên",
+        "Canh chua dưa bò"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/14-1764916738-946-width2048height1536.jpg"
+    },
+    {
+      "id": 358,
+      "dishes": [
+        "Canh ngao lá lốt",
+        "Mực hấp",
+        "Gà rang",
+        "Thịt bò xào súp lơ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/15-1764916739-207-width2048height1536.jpg"
+    },
+    {
+      "id": 359,
+      "dishes": [
+        "Thịt bò lúc lắc",
+        "Đậu luộc",
+        "Canh mọc rau ngót",
+        "Trứng hấp lá mơ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/16-1764916739-881-width2048height1536.jpg"
+    },
+    {
+      "id": 360,
+      "dishes": [
+        "Nem chua rán",
+        "Tóp mỡ lắc sả chanh",
+        "Thịt ba chỉ luộc",
+        "Rau muống xào",
+        "Nước rau luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/17-1764916739-297-width2048height1536.jpg"
+    },
+    {
+      "id": 361,
+      "dishes": [
+        "Nộm dưa góp",
+        "Thịt rang sả",
+        "Đậu xào thịt bò",
+        "Canh xương củ quả"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/4-2025/images/2025-12-05/18-1764916739-693-width2048height1536.jpg"
+    },
+    {
+      "id": 362,
+      "dishes": [
+        "Tim trứng rim",
+        "Sườn xào chua ngọt",
+        "Ghẹ nấu canh rau muống",
+        "Cơm thố",
+        "Cà muối",
+        "Lê"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-1-1722225796-710-width1776height2048.jpg"
+    },
+    {
+      "id": 363,
+      "dishes": [
+        "Đùi gà buộc rau ngải cứu hầm thuốc bắc",
+        "Đậu lắc muối ớt",
+        "Mọc nấu canh thiên lý",
+        "Cơm thố",
+        "Nho sữa"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-2-1722225797-920-width1854height2048.jpg"
+    },
+    {
+      "id": 364,
+      "dishes": [
+        "Bắp cải nhồi thịt",
+        "Trứng rán bắp cải",
+        "Rau muống xào",
+        "Cơm bột chùm ngây",
+        "Củ cải mắm đường",
+        "Mận cơm"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-3-1722225797-915-width1914height2048.jpg"
+    },
+    {
+      "id": 365,
+      "dishes": [
+        "Đậu kênh rán",
+        "Chân giò luộc",
+        "Bún ngô",
+        "Rau sống",
+        "Sữa chua matcha nha đam"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-4-1722225797-691-width1756height2048.jpg"
+    },
+    {
+      "id": 366,
+      "dishes": [
+        "Chân giò cuộn rau sống",
+        "Cánh gà chiên mắm",
+        "Đậu que luộc",
+        "Cơm tạo màu từ thanh long",
+        "Kiwi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-5-1722225797-621-width1838height2048.jpg"
+    },
+    {
+      "id": 367,
+      "dishes": [
+        "Nem rán",
+        "Chân giò cuộn rau thơm",
+        "Rau sống",
+        "Bún ngô",
+        "Đu đủ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-6-1722225797-25-width1952height2048.jpg"
+    },
+    {
+      "id": 368,
+      "dishes": [
+        "Váng đậu cuộn thịt hấp xì dầu",
+        "Bắp bò hấp",
+        "Bí xanh hấp",
+        "Cơm gạo lứt",
+        "Mít"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-7-1722225797-112-width1290height1482.jpg"
+    },
+    {
+      "id": 369,
+      "dishes": [
+        "Canh ngao nấu chua",
+        "Chả lá lốt",
+        "Sườn xào chua ngọt",
+        "Củ cái ngâm mắm",
+        "Đào"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-8-1722225797-174-width1290height1494.jpg"
+    },
+    {
+      "id": 370,
+      "dishes": [
+        "Ba chỉ rang cháy cạnh",
+        "Đậu bắp xào trứng",
+        "Canh mồng tơi nấu tôm",
+        "Sữa chua phomai"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-9-1722225797-175-width1290height1344.jpg"
+    },
+    {
+      "id": 371,
+      "dishes": [
+        "Chả lá lốt",
+        "Lạc rang muối",
+        "Canh dưa bò",
+        "Cơm thố",
+        "Lê"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-10-1722225797-312-width1290height1536.jpg"
+    },
+    {
+      "id": 372,
+      "dishes": [
+        "Chân gà sốt thái",
+        "Sườn sốt xoài",
+        "Canh mướp nấu lạc",
+        "Cơm gạo lứt",
+        "Lê"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-11-1722225797-545-width1290height1476.jpg"
+    },
+    {
+      "id": 373,
+      "dishes": [
+        "Tôm rim thịt ba chỉ",
+        "Bí non xào lòng gà",
+        "Mồng tơi nấu đầu tôm",
+        "Cơm trắng",
+        "Táo xanh"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-12-1722225798-420-width1290height1506.jpg"
+    },
+    {
+      "id": 374,
+      "dishes": [
+        "Tôm rim mặn ngọt",
+        "Mướp đắng nhồi thịt",
+        "Thiên lý xào",
+        "Cơm thố",
+        "Dưa lê"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-13-1722225798-145-width1290height1452.jpg"
+    },
+    {
+      "id": 375,
+      "dishes": [
+        "Thiên lý xào trứng",
+        "Bò xào lúc lắc",
+        "Canh cua nấu mướp mồng tơi",
+        "Pudding xoài"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-15-1722225798-536-width1946height2048.jpg"
+    },
+    {
+      "id": 376,
+      "dishes": [
+        "Cá nục sốt cà chua",
+        "Đậu hũ sốt trứng muối",
+        "Rau muống nấu tép khô",
+        "Cơm gạo lứt",
+        "Nho"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-16-1722225798-109-width1834height2048.jpg"
+    },
+    {
+      "id": 377,
+      "dishes": [
+        "Đậu kênh tẩm hành",
+        "Chân giò luộc cuộn rau sống",
+        "Canh cải cá rô",
+        "Kiwi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-17-1722225798-683-width1822height2048.jpg"
+    },
+    {
+      "id": 378,
+      "dishes": [
+        "Tôm rim mắm hành",
+        "Đậu rán",
+        "Rau muống luộc",
+        "Cơm thố",
+        "Cà chua bi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-18-1722225798-409-width1784height2048.jpg"
+    },
+    {
+      "id": 379,
+      "dishes": [
+        "Cá bống kho tiêu",
+        "Chân giò luộc",
+        "Canh muống nấu tôm",
+        "Cơm gạo lứt đồ",
+        "Đu đủ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-19-1722225798-785-width1706height2048.jpg"
+    },
+    {
+      "id": 380,
+      "dishes": [
+        "Chả hoa sen",
+        "Cá ngừ xào nụ bí",
+        "Rau muống luộc",
+        "Cơm thố",
+        "Mận"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-20-1722225798-396-width1290height1440.jpg"
+    },
+    {
+      "id": 381,
+      "dishes": [
+        "Canh bí nấu xương",
+        "Thiên lý xào tôm",
+        "Mướp luộc",
+        "Cơm gạo lứt",
+        "Thanh long"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-21-1722225798-896-width1290height1470.jpg"
+    },
+    {
+      "id": 382,
+      "dishes": [
+        "Cá basa sốt Nhật",
+        "Tôm thịt rang cháy cạnh",
+        "Bầu, bí luộc",
+        "Cơm thố",
+        "Dưa lê"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-22-1722225798-840-width1290height1464.jpg"
+    },
+    {
+      "id": 383,
+      "dishes": [
+        "Nộm tai heo chuối xanh",
+        "Cá hồi sốt chanh leo",
+        "Bầu nấu tôm",
+        "Cơm thố",
+        "Dưa lưới"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-23-1722225799-224-width1290height1398.jpg"
+    },
+    {
+      "id": 384,
+      "dishes": [
+        "Salad bơ trứng",
+        "Chả chìa ức gà",
+        "Cải thảo luộc",
+        "Khoai sọ hấp",
+        "Ớt chuông"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-24-1722225799-493-width1290height1560.jpg"
+    },
+    {
+      "id": 385,
+      "dishes": [
+        "Tôm sốt pho mai chanh leo",
+        "Đậu rán",
+        "Canh bí xanh thịt nạc",
+        "Gạo lứt mix hạt",
+        "Dưa hấu"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-25-1722225799-570-width1850height2048.jpg"
+    },
+    {
+      "id": 386,
+      "dishes": [
+        "Mít non kho thịt",
+        "Đậu hũ non hấp thịt",
+        "Cải kale xào thịt băm",
+        "Cơm gạo lứt mix hạt",
+        "Dưa lưới"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-26-1722225799-328-width1802height2048.jpg"
+    },
+    {
+      "id": 387,
+      "dishes": [
+        "Đậu kênh sốt cà chua",
+        "Tim, tràng luộc",
+        "Thanh long đỏ",
+        "Bí xanh nấu canh"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-27-1722225799-593-width1290height1344.jpg"
+    },
+    {
+      "id": 388,
+      "dishes": [
+        "Tôm xào đậu que",
+        "Đùi gà om nấm",
+        "Canh cải cá rô đồng",
+        "Cà chua bi",
+        "Cơm thố"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-28-1722225799-376-width1290height1440.jpg"
+    },
+    {
+      "id": 389,
+      "dishes": [
+        "Thịt chân giò cuộn rau thơm",
+        "Đậu kênh sả ớt",
+        "Canh bí xanh",
+        "Cơm gạo lứt",
+        "Thanh long đỏ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-29-1722225799-526-width880height960.jpg"
+    },
+    {
+      "id": 390,
+      "dishes": [
+        "Giả cầy",
+        "Chả cốm",
+        "Rau củ luộc",
+        "Cơm cháy",
+        "Táo xanh"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-30-1722225799-655-width1290height1518.jpg"
+    },
+    {
+      "id": 391,
+      "dishes": [
+        "Thịt nướng riềng mẻ",
+        "Trứng rán cải kale",
+        "Rau dền",
+        "Cơm cháy",
+        "Đu đủ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/3-2024/images/2024-07-29/Thuc-don-31-1722227076-793-width1290height1374.jpg"
+    },
+    {
+      "id": 392,
+      "dishes": [
+        "Canh cua",
+        "Thịt kho",
+        "Mực ống xào",
+        "Sung muối",
+        "Cà chua bi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-1-1718425004-456-width2048height2022.jpg"
+    },
+    {
+      "id": 393,
+      "dishes": [
+        "Canh măng mọc",
+        "Bắp cải cuộn thịt",
+        "Cá hố chiên",
+        "Kim chi cải thảo"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-2-1718425004-961-width1970height2048.jpg"
+    },
+    {
+      "id": 394,
+      "dishes": [
+        "Bí đỏ mini nhồi thịt",
+        "Hoa thiên lý xào bò",
+        "Canh bầu nấu tôm",
+        "Măng muối"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-3-1718425004-328-width2048height2008.jpg"
+    },
+    {
+      "id": 395,
+      "dishes": [
+        "Ngô nếp xào tép",
+        "Măng tây xào bò",
+        "Canh sườn củ quả"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-4-1718425004-604-width1992height2048.jpg"
+    },
+    {
+      "id": 396,
+      "dishes": [
+        "Canh mọc rau cải",
+        "Bí ngòi vàng nhồi tôm thịt",
+        "Nem rán",
+        "Bắp bò luộc chấm mắm gừng"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-5-1718425004-756-width1990height2048.jpg"
+    },
+    {
+      "id": 397,
+      "dishes": [
+        "Canh măng gà",
+        "Gà luộc",
+        "Salad ức gà"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-6-1718425004-816-width2048height2030.jpg"
+    },
+    {
+      "id": 398,
+      "dishes": [
+        "Canh măng sườn",
+        "Củ quả luộc",
+        "Súp lơ xanh xào tôm nõn",
+        "Sung muối xổi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-7-1718425005-12-width2044height2048.jpg"
+    },
+    {
+      "id": 399,
+      "dishes": [
+        "Canh ốc chuối đậu",
+        "Bê tái chanh",
+        "Rau sống ăn kèm"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-8-1718425005-670-width2048height1908.jpg"
+    },
+    {
+      "id": 400,
+      "dishes": [
+        "Canh tôm rau muống",
+        "Cá hồi xốt cam",
+        "Ruột hàu xào mướp",
+        "Quả oliu đen"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-9-1718425005-326-width2048height1900.jpg"
+    },
+    {
+      "id": 401,
+      "dishes": [
+        "Cánh gà nướng mật ong",
+        "Dưa chuột chẻ",
+        "Mướp đắng xào trứng",
+        "Canh suông rau muống"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-10-1718425005-222-width2048height1966.jpg"
+    },
+    {
+      "id": 402,
+      "dishes": [
+        "Gà hầm bí đỏ, hạt sen",
+        "Gà rang lá chanh",
+        "Củ cải luộc",
+        "Thịt viên trứng cút xốt cà chua"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-12-1718425005-715-width2048height1918.jpg"
+    },
+    {
+      "id": 403,
+      "dishes": [
+        "Canh cá nấu chua",
+        "Mực xào súp lơ",
+        "Rau sống ăn kèm"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-13-1718425005-494-width2048height1962.jpg"
+    },
+    {
+      "id": 404,
+      "dishes": [
+        "Rau muống luộc",
+        "Tôm rang",
+        "Cá thu xốt cà chua",
+        "Khô gà lá chanh"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-14-1718425005-145-width2048height1858.jpg"
+    },
+    {
+      "id": 405,
+      "dishes": [
+        "Canh măng tiết",
+        "Ngan luộc",
+        "Su su luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-15-1718425005-27-width2048height2036.jpg"
+    },
+    {
+      "id": 406,
+      "dishes": [
+        "Canh mọc nấu chua",
+        "Sườn xào chua ngọt",
+        "Bò kho",
+        "Quả oliu đen"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-16-1718425005-104-width2034height2048.jpg"
+    },
+    {
+      "id": 407,
+      "dishes": [
+        "Rau muống luộc",
+        "Cá kho",
+        "Giò lụa",
+        "Quả bơ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-17-1718425005-87-width1998height2048.jpg"
+    },
+    {
+      "id": 408,
+      "dishes": [
+        "Đậu đũa nhồi thịt hấp",
+        "Móng giò om măng",
+        "Đậu rán chấm mắm tôm"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-18-1718425006-959-width2047height1949.jpg"
+    },
+    {
+      "id": 409,
+      "dishes": [
+        "Thịt ba chỉ luộc",
+        "Súp lơ luộc",
+        "Giò me"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-19-1718425006-833-width1984height2048.jpg"
+    },
+    {
+      "id": 410,
+      "dishes": [
+        "Canh nấm mọc",
+        "Chả ốc",
+        "Trứng xào"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-20-1718425006-80-width2048height2028.jpg"
+    },
+    {
+      "id": 411,
+      "dishes": [
+        "Canh chuối đậu",
+        "Sườn rán",
+        "Bắp cải xào"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-21-1718425006-796-width2048height2040.jpg"
+    },
+    {
+      "id": 412,
+      "dishes": [
+        "Canh sườn súp lơ",
+        "Giò me",
+        "Canh dưa bò",
+        "Don xào"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-22-1718425006-132-width2048height2044.jpg"
+    },
+    {
+      "id": 413,
+      "dishes": [
+        "Củ cải luộc",
+        "Súp lơ xào",
+        "Chả rươi"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-23-1718425006-165-width2048height2012.jpg"
+    },
+    {
+      "id": 414,
+      "dishes": [
+        "Canh trứng đậu hũ non",
+        "Hoa hẹ xào bò",
+        "Hàu nướng phô mai"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-24-1718425006-197-width2048height2042.jpg"
+    },
+    {
+      "id": 415,
+      "dishes": [
+        "Hàu nướng phô mai",
+        "Cà rốt baby nướng",
+        "Canh măng sườn",
+        "Su hào xào tóp mỡ"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-25-1718425006-203-width2048height2022.jpg"
+    },
+    {
+      "id": 416,
+      "dishes": [
+        "Canh trứng súp lơ",
+        "Đậu rán",
+        "Sườn rán",
+        "Bò hầm khoai tây"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-26-1718425006-673-width2048height2042.jpg"
+    },
+    {
+      "id": 417,
+      "dishes": [
+        "Canh chua ngó khoai",
+        "Kê gà hấp",
+        "Măng trúc xào bò"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-27-1718425007-918-width2036height2048.jpg"
+    },
+    {
+      "id": 418,
+      "dishes": [
+        "Bắp cải nấu nước luộc thịt",
+        "Dưa bắp cải",
+        "Giò me",
+        "Thịt ba chỉ luộc"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-28-1718425007-13-width1952height2048.jpg"
+    },
+    {
+      "id": 419,
+      "dishes": [
+        "Canh dưa bò",
+        "Cà chua nhồi thịt hấp",
+        "Nem rán",
+        "Rau sống ăn kèm"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-29-1718425007-633-width2012height2048.jpg"
+    },
+    {
+      "id": 420,
+      "dishes": [
+        "Canh nấm rong biển",
+        "Dưa bắp cải muối",
+        "Hàu nướng phô mai",
+        "Cá bớp xốt cà chua"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-30-1718425007-938-width2034height2048.jpg"
+    },
+    {
+      "id": 421,
+      "dishes": [
+        "Canh cua",
+        "Gà xào hạt điều",
+        "Trứng hấp vân",
+        "Ngô hấp"
+      ],
+      "image": "https://icdn.24h.com.vn/upload/2-2024/images/2024-06-15/Thuc-don-31-1718426055-962-width2036height2048.jpg"
     }
   ],
   "sources": [
@@ -1479,6 +4314,12 @@
     "https://giadinh.suckhoedoisong.vn/100-mon-an-ngon-moi-ngay-goi-y-thuc-don-chuan-vi-de-nau-ai-cung-me-172250323181230245.htm",
     "https://giadinh.suckhoedoisong.vn/20-mam-com-gia-re-voi-3-4-mon-ngon-moi-ngay-khien-cac-con-nhanh-chan-ve-an-com-me-nau-172250217193822801.htm",
     "https://giadinh.suckhoedoisong.vn/70-mam-com-gia-dinh-thanh-dam-giup-giai-ngan-sau-tet-ma-nhieu-nguoi-dang-tim-kiem-172250120224212138.htm",
-    "https://giadinh.suckhoedoisong.vn/goi-y-20-mam-com-gia-dinh-danh-cho-4-nguoi-mang-lai-khong-khi-am-cung-ngay-dong-17225011618295507.htm"
+    "https://giadinh.suckhoedoisong.vn/goi-y-20-mam-com-gia-dinh-danh-cho-4-nguoi-mang-lai-khong-khi-am-cung-ngay-dong-17225011618295507.htm",
+    "https://www.24h.com.vn/am-thuc/30-mam-com-danh-cho-2-nguoi-cuc-hap-dan-c460a1587043.html",
+    "https://www.24h.com.vn/am-thuc/com-nha-ca-thang-khong-trung-mon-khoi-can-dau-dau-nghi-toi-nay-an-gi-c460a1718760.html",
+    "https://www.24h.com.vn/am-thuc/com-nha-don-gian-de-nau-cho-nguoi-ban-ron-c460a1718098.html",
+    "https://www.24h.com.vn/am-thuc/nhung-bua-com-nha-gian-di-khien-moi-nguoi-cam-thay-am-long-khi-dong-ve-c460a1719319.html",
+    "https://www.24h.com.vn/am-thuc/30-mam-com-nha-sieu-hap-dan-dang-hoc-hoi-de-khoi-nghi-thuc-don-moi-ngay-c460a1589460.html",
+    "https://www.24h.com.vn/am-thuc/30-mam-com-nha-ngon-mieng-dep-mat-khien-nhieu-nguoi-ao-uoc-c460a1576911.html"
   ]
 }
