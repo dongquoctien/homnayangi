@@ -330,7 +330,7 @@ export default function MenuDisplay({
         .menu-display__image {
           width: 100%;
           height: 100%;
-          object-fit: cover;
+          object-fit: contain;
           opacity: 0;
           transition: opacity 0.3s ease-out, transform 0.3s ease;
         }
