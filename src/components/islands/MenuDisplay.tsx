@@ -484,7 +484,7 @@ export default function MenuDisplay({
           border-radius: 12px;
           box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
           overflow: hidden;
-          min-width: 180px;
+          min-width: 210px;
           z-index: 10;
           animation: dropdownFadeIn 0.15s ease-out;
         }
