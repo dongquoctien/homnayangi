@@ -16,7 +16,7 @@ export interface Props {
 const {
   title,
   description,
-  ogImage = '/og-default.svg',
+  ogImage = '/og-default.png',
   canonicalUrl,
   structuredData,
   noIndex = false,
@@ -24,9 +24,10 @@ const {
 
 const locale = getLocale(Astro.url);
 const t = useTranslations(locale);
-const siteUrl = Astro.site?.href ?? 'https://homnayanggi.vn';
+const siteUrl = Astro.site?.href ?? 'https://dongquoctien.github.io';
+const basePath = import.meta.env.BASE_URL || '';
 const currentUrl = canonicalUrl || Astro.url.href;
-const fullOgImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+const fullOgImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${basePath}${ogImage}`.replace(/\/+/g, '/').replace(':/', '://');
 const currentPath = Astro.url.pathname;
 const hreflangLinks = getAlternateLanguageLinks(currentPath, siteUrl.replace(/\/$/, ''));
 const skipToContentLabel = t('common.skipToContent');
