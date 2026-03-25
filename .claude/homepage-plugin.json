@@ -1,0 +1,8 @@
+{
+  "framework": "astro",
+  "contentStrategy": "headless-cms",
+  "i18nLocales": ["vi", "en"],
+  "defaultLocale": "vi",
+  "deployTarget": "vercel",
+  "eslintTemplate": true
+}

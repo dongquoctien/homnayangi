@@ -1,0 +1,101 @@
+{
+  "timestamp": "2026-03-24T16:28:00+07:00",
+  "round": 3,
+  "issuesReceived": 10,
+  "issuesFixed": 4,
+  "issuesSkipped": 6,
+  "fixDetails": [
+    {
+      "file": "src/components/islands/MenuDisplay.tsx",
+      "issue": "MenuDisplay <article> lacks heading - accessibility violation",
+      "severity": "critical",
+      "status": "fixed",
+      "note": "Changed menu badge from <span> to <h3> element, changed dishes label from <h2> to <h4> for proper heading hierarchy"
+    },
+    {
+      "file": "src/components/islands/MenuWithDatePicker.tsx",
+      "issue": "Duplicate main landmarks (aside + main in React island)",
+      "severity": "warning",
+      "status": "fixed",
+      "note": "Changed <aside> to <div role=\"region\"> and <main> to <div> to prevent duplicate landmark issues"
+    },
+    {
+      "file": "src/components/islands/MenuWithDatePicker.tsx",
+      "issue": "H1 in React component instead of Astro page level",
+      "severity": "warning",
+      "status": "fixed",
+      "note": "Changed <h1> to <h2> in React component, moved H1 to Astro page level"
+    },
+    {
+      "file": "src/components/sections/MenuWithDatePickerSection.astro",
+      "issue": "Section heading hierarchy - H1 should be at page level",
+      "severity": "warning",
+      "status": "fixed",
+      "note": "Changed sr-only heading from <h2> to <h1> for proper page-level H1"
+    }
+  ],
+  "skippedDetails": [
+    {
+      "file": "src/components/islands/DatePicker.tsx",
+      "issue": "Large inline styles (575 lines)",
+      "severity": "warning",
+      "status": "skipped",
+      "reason": "Significant refactor requiring new CSS file creation - deferred to dedicated task"
+    },
+    {
+      "file": "src/components/islands/MenuDisplay.tsx",
+      "issue": "Large inline styles (540 lines)",
+      "severity": "warning",
+      "status": "skipped",
+      "reason": "Significant refactor requiring new CSS file creation - deferred to dedicated task"
+    },
+    {
+      "file": "src/components/islands/MenuWithDatePicker.tsx",
+      "issue": "Large inline styles",
+      "severity": "warning",
+      "status": "skipped",
+      "reason": "Significant refactor - deferred to dedicated task"
+    },
+    {
+      "file": "src/components/islands/DatePicker.tsx",
+      "issue": "ARIA labels use inline ternary for previousMonth/nextMonth",
+      "severity": "warning",
+      "status": "skipped",
+      "reason": "Lower priority i18n enhancement - current implementation works correctly"
+    },
+    {
+      "file": "src/components/islands/DatePicker.tsx",
+      "issue": "Default labels with hardcoded strings",
+      "severity": "warning",
+      "status": "skipped",
+      "reason": "Breaking change - fallback provides graceful degradation"
+    },
+    {
+      "file": "src/components/islands/MenuDisplay.tsx",
+      "issue": "Hardcoded default strings",
+      "severity": "warning",
+      "status": "skipped",
+      "reason": "Breaking change - current implementation allows optional labels"
+    }
+  ],
+  "verification": {
+    "tsc": "pass",
+    "eslint": "pass",
+    "build": "pass"
+  },
+  "escalated": [],
+  "previousRounds": [
+    {
+      "round": 1,
+      "timestamp": "2026-03-24T12:35:00.000Z",
+      "issuesFixed": 9,
+      "issuesSkipped": 2
+    },
+    {
+      "round": 2,
+      "timestamp": "2026-03-24T15:01:00.000Z",
+      "issuesFixed": 4,
+      "issuesSkipped": 0
+    }
+  ]
+}

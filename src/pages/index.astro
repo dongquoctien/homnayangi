@@ -1,0 +1,74 @@
+---
+import MinimalLayout from '@layouts/MinimalLayout.astro';
+import MenuWithDatePickerSection from '@components/sections/MenuWithDatePickerSection.astro';
+import { useTranslations } from '@lib/i18n/utils';
+import {
+  generateOrganizationSchema,
+  generateWebSiteSchema,
+} from '@lib/seo/structured-data';
+import type { Menu } from '@/types/menu';
+import menusData from '@/data/menus.json';
+
+// Vietnamese locale (default)
+const locale = 'vi';
+const t = useTranslations(locale);
+
+const siteUrl = Astro.site?.href ?? 'https://homnayanggi.vn';
+
+// Structured data for SEO
+const structuredData = [
+  generateOrganizationSchema({
+    name: t('meta.companyName'),
+    url: siteUrl,
+    description: t('site.description'),
+    sameAs: ['https://facebook.com/homnayanggi', 'https://instagram.com/homnayanggi'],
+  }),
+  generateWebSiteSchema({
+    name: t('meta.companyName'),
+    url: siteUrl,
+    description: t('site.description'),
+    inLanguage: 'vi-VN',
+  }),
+];
+
+// Get all menus from static JSON data
+const menus: Menu[] = menusData.menus;
+
+// Get weekday and month names from translations
+import viLocale from '@lib/i18n/locales/vi.json';
+const weekdayNames = viLocale.weekdays;
+const monthNames = viLocale.months;
+
+// Prepare translations for MenuWithDatePickerSection
+const translations = {
+  pageTitle: t('menu.pageTitle'),
+  pageSubtitle: t('menu.pageSubtitle'),
+  menuLabel: t('menu.menuLabel'),
+  dishesLabel: t('menu.dishesLabel'),
+  shareButtonText: t('menu.shareButtonText'),
+  sourceCredit: t('menu.sourceCredit'),
+  linkCopied: t('menu.linkCopied'),
+  datePickerTitle: t('datePicker.title'),
+  todayLabel: t('datePicker.todayLabel'),
+  selectDateTrigger: t('datePicker.selectDateTrigger'),
+  shareFacebook: t('share.facebook'),
+  shareTwitter: t('share.twitter'),
+  copyLink: t('share.copyLink'),
+};
+---
+
+<MinimalLayout
+  title={t('meta.title')}
+  description={t('meta.description')}
+  ogImage="/og-default.svg"
+  canonicalUrl="/"
+  structuredData={structuredData}
+>
+  <MenuWithDatePickerSection
+    menus={menus}
+    locale={locale}
+    translations={translations}
+    weekdayNames={weekdayNames}
+    monthNames={monthNames}
+  />
+</MinimalLayout>

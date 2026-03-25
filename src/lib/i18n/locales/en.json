@@ -1,0 +1,45 @@
+{
+  "site": {
+    "name": "What to eat today?",
+    "description": "Daily menu suggestions"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "open": "Open",
+    "skipToContent": "Skip to main content"
+  },
+  "meta": {
+    "companyName": "What to eat today?",
+    "title": "What to eat today? | Daily menu suggestions",
+    "description": "A menu suggestion app that helps you answer 'What to eat today?' every day with hundreds of delicious Vietnamese menus."
+  },
+  "menu": {
+    "pageTitle": "What to eat today?",
+    "pageSubtitle": "Daily delicious menu suggestions",
+    "menuLabel": "Menu",
+    "dishesLabel": "Dishes",
+    "shareButtonText": "Share",
+    "sourceCredit": "Source: suckhoedoisong.vn",
+    "linkCopied": "Link copied!"
+  },
+  "datePicker": {
+    "title": "Select date",
+    "todayLabel": "Today",
+    "selectDateTrigger": "Select another date",
+    "previousMonth": "Previous month",
+    "nextMonth": "Next month"
+  },
+  "share": {
+    "facebook": "Share on Facebook",
+    "twitter": "Share on Twitter",
+    "copyLink": "Copy link"
+  },
+  "weekdays": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+  "months": [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+  ]
+}

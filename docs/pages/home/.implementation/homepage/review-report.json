@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-03-24T16:18:00+07:00",
+  "seo": {
+    "score": 7.8,
+    "verdict": "pass",
+    "dimensions": {
+      "metaTags": { "score": 9 },
+      "openGraph": { "score": 8 },
+      "twitterCards": { "score": 9 },
+      "structuredData": { "score": 9 },
+      "semanticHtml": { "score": 7 },
+      "i18n": { "score": 9 }
+    },
+    "issues": [
+      {
+        "severity": "critical",
+        "dimension": "semanticHtml",
+        "message": "MenuDisplay component uses <article> but lacks a heading element (h2, h3) within the article for accessibility",
+        "file": "src/components/islands/MenuDisplay.tsx",
+        "line": 133,
+        "fixHint": "Add an <h2> or <h3> heading within the article element for the menu title"
+      },
+      {
+        "severity": "warning",
+        "dimension": "openGraph",
+        "message": "og:image uses relative path, existence not verified",
+        "file": "src/pages/index.astro",
+        "line": 63,
+        "fixHint": "Ensure /public/og-default.svg exists (1200x630px recommended)"
+      },
+      {
+        "severity": "warning",
+        "dimension": "semanticHtml",
+        "message": "H1 in React component instead of Astro page level",
+        "file": "src/components/islands/MenuWithDatePicker.tsx",
+        "line": 70,
+        "fixHint": "Consider moving h1 to page level for better SEO clarity"
+      },
+      {
+        "severity": "warning",
+        "dimension": "semanticHtml",
+        "message": "Duplicate main landmarks (page layout + React island)",
+        "file": "src/components/islands/MenuWithDatePicker.tsx",
+        "line": 77,
+        "fixHint": "Use <div> instead of <aside> and <main> in island component"
+      },
+      {
+        "severity": "warning",
+        "dimension": "semanticHtml",
+        "message": "Section heading is sr-only while primary h1 is in React island",
+        "file": "src/components/sections/MenuWithDatePickerSection.astro",
+        "line": 52,
+        "fixHint": "Improve heading hierarchy by moving h1 to page level"
+      }
+    ]
+  },
+  "quality": {
+    "score": 8.2,
+    "verdict": "pass",
+    "dimensions": {
+      "accessibility": { "score": 9 },
+      "responsiveness": { "score": 9 },
+      "performance": { "score": 8 },
+      "codeQuality": { "score": 8 },
+      "i18nCompliance": { "score": 7 },
+      "conventionCompliance": { "score": 9 }
+    },
+    "issues": [
+      {
+        "severity": "warning",
+        "dimension": "performance",
+        "message": "DatePicker has 575 lines of inline styles",
+        "file": "src/components/islands/DatePicker.tsx",
+        "line": 301,
+        "fixHint": "Move styles to dedicated CSS file or CSS modules"
+      },
+      {
+        "severity": "warning",
+        "dimension": "performance",
+        "message": "MenuDisplay has 540 lines of inline styles",
+        "file": "src/components/islands/MenuDisplay.tsx",
+        "line": 243,
+        "fixHint": "Extract to external CSS file to reduce component size"
+      },
+      {
+        "severity": "warning",
+        "dimension": "performance",
+        "message": "Large inline styles in MenuWithDatePicker increase bundle size",
+        "file": "src/components/islands/MenuWithDatePicker.tsx",
+        "line": 115,
+        "fixHint": "Extract component styles to external CSS file"
+      },
+      {
+        "severity": "warning",
+        "dimension": "i18nCompliance",
+        "message": "ARIA labels use inline ternary instead of proper translation keys",
+        "file": "src/components/islands/DatePicker.tsx",
+        "line": 230,
+        "fixHint": "Add previousMonth/nextMonth to labels prop interface"
+      },
+      {
+        "severity": "warning",
+        "dimension": "i18nCompliance",
+        "message": "Default labels object has hardcoded strings as fallback",
+        "file": "src/components/islands/DatePicker.tsx",
+        "line": 65,
+        "fixHint": "Remove default inline strings - labels should come from i18n system"
+      },
+      {
+        "severity": "warning",
+        "dimension": "i18nCompliance",
+        "message": "MenuDisplay uses hardcoded default strings instead of requiring all labels",
+        "file": "src/components/islands/MenuDisplay.tsx",
+        "line": 31,
+        "fixHint": "Make labels required prop without defaults"
+      }
+    ]
+  },
+  "overall": {
+    "verdict": "pass_with_warnings",
+    "combinedScore": 8.0,
+    "totalIssues": {
+      "critical": 1,
+      "warning": 10,
+      "info": 8
+    }
+  }
+}

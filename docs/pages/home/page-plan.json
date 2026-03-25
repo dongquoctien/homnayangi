@@ -1,0 +1,291 @@
+{
+  "page": "home",
+  "route": "/",
+  "title": {
+    "vi": "Hôm nay ăn gì? - Thực đơn mỗi ngày",
+    "en": "What to eat today? - Daily menu"
+  },
+  "description": {
+    "vi": "Website gợi ý thực đơn random mỗi ngày với nhiều món ăn đa dạng. Xem trước thực đơn các ngày tương lai.",
+    "en": "Daily random menu suggestions with multiple delicious dishes. Preview future menus."
+  },
+  "layout": "MinimalLayout",
+  "sections": [
+    {
+      "id": "menu-with-datepicker",
+      "type": "MenuWithDatePickerSection",
+      "order": 1,
+      "interactive": true,
+      "props": {
+        "layout": "sidebar-left",
+        "showMenuNumber": true,
+        "showMenuImage": true,
+        "enableSharing": true,
+        "enableRefresh": false,
+        "animateOnChange": true
+      },
+      "content": {
+        "vi": {
+          "pageTitle": "Hôm nay ăn gì?",
+          "pageSubtitle": "Gợi ý thực đơn ngon mỗi ngày",
+          "menuLabel": "Thực đơn",
+          "dishesLabel": "Các món",
+          "shareButtonText": "Chia sẻ",
+          "sourceCredit": "Nguồn: suckhoedoisong.vn",
+          "datePickerTitle": "Chọn ngày",
+          "todayLabel": "Hôm nay",
+          "selectedDateLabel": "Ngày đã chọn"
+        },
+        "en": {
+          "pageTitle": "What to eat today?",
+          "pageSubtitle": "Daily delicious menu suggestions",
+          "menuLabel": "Menu",
+          "dishesLabel": "Dishes",
+          "shareButtonText": "Share",
+          "sourceCredit": "Source: suckhoedoisong.vn",
+          "datePickerTitle": "Select date",
+          "todayLabel": "Today",
+          "selectedDateLabel": "Selected date"
+        }
+      }
+    }
+  ],
+  "seo": {
+    "title": {
+      "vi": "Hôm nay ăn gì? | Gợi ý thực đơn mỗi ngày",
+      "en": "What to eat today? | Daily menu suggestions"
+    },
+    "description": {
+      "vi": "Không biết hôm nay ăn gì? Website gợi ý thực đơn random mỗi ngày với nhiều món ăn đa dạng, dễ nấu, ngon miệng. Xem trước thực đơn các ngày tới.",
+      "en": "Don't know what to eat today? Get daily random menu suggestions with multiple delicious dishes. Preview upcoming menus."
+    },
+    "ogImage": "/og-default.svg",
+    "ogType": "website",
+    "twitterCard": "summary_large_image",
+    "structuredData": [
+      {
+        "type": "WebSite",
+        "props": {
+          "name": {
+            "vi": "Hôm nay ăn gì?",
+            "en": "What to eat today?"
+          },
+          "url": "https://homnayanggi.vn"
+        }
+      }
+    ],
+    "canonicalUrl": "/"
+  },
+  "islands": [
+    {
+      "id": "date-picker",
+      "component": "DatePicker",
+      "hydrateOn": "load",
+      "props": {
+        "variant": "inline-calendar",
+        "position": "sidebar-left",
+        "minDate": "today",
+        "maxDate": "+30days",
+        "defaultValue": "today",
+        "highlightToday": true,
+        "showWeekdays": true,
+        "showMonthNavigation": true,
+        "locale": "vi-VN"
+      },
+      "events": {
+        "onDateChange": {
+          "action": "updateMenu",
+          "updateTarget": "menu-display"
+        }
+      },
+      "responsive": {
+        "desktop": {
+          "layout": "sidebar-left",
+          "width": "280px",
+          "position": "sticky",
+          "top": "24px"
+        },
+        "tablet": {
+          "layout": "sidebar-left",
+          "width": "240px",
+          "position": "sticky",
+          "top": "16px"
+        },
+        "mobile": {
+          "layout": "top-collapsible",
+          "width": "100%",
+          "expandable": true,
+          "defaultExpanded": false,
+          "triggerText": {
+            "vi": "📅 Chọn ngày khác",
+            "en": "📅 Pick another date"
+          }
+        }
+      },
+      "styling": {
+        "theme": "modern-minimal",
+        "borderRadius": "12px",
+        "shadow": "soft",
+        "todayHighlight": "primary-color",
+        "selectedHighlight": "primary-solid",
+        "hoverEffect": "subtle-scale",
+        "disabledStyle": "muted-strikethrough"
+      }
+    },
+    {
+      "id": "menu-display",
+      "component": "MenuDisplay",
+      "hydrateOn": "idle",
+      "props": {
+        "showImage": true,
+        "animateOnChange": true,
+        "transitionType": "fade-slide"
+      },
+      "events": {
+        "onShare": {
+          "action": "shareMenu",
+          "platforms": ["facebook", "twitter", "copy-link"]
+        }
+      }
+    }
+  ],
+  "dataSource": {
+    "type": "static-json",
+    "file": "src/data/menus.json",
+    "source": "https://giadinh.suckhoedoisong.vn/100-mon-an-ngon-moi-ngay-goi-y-thuc-don-chuan-vi-de-nau-ai-cung-me-172250323181230245.htm",
+    "schema": {
+      "menus": [
+        {
+          "id": "number",
+          "dishes": "string[] - Vietnamese dish names with diacritics",
+          "image": "string - URL to menu image from mediacdn.vn"
+        }
+      ]
+    },
+    "stats": {
+      "totalMenus": 294,
+      "totalDishes": 1285,
+      "imageProvider": "giadinh.mediacdn.vn"
+    }
+  },
+  "features": {
+    "dateBasedRandom": {
+      "enabled": true,
+      "description": "Menu được random dựa trên session. Mỗi lần reload page sẽ random lại menu mới cho tất cả 30 ngày.",
+      "implementation": "sessionSeededRandom - tạo seed mới mỗi lần page load, lưu vào sessionStorage để giữ consistent trong session"
+    },
+    "reloadRandomize": {
+      "enabled": true,
+      "description": "Khi reload page, random lại menu cho 30 ngày bao gồm ngày hiện tại",
+      "implementation": "Tạo sessionId mới mỗi lần page mount, sử dụng sessionId + date làm seed",
+      "behavior": {
+        "onPageLoad": "Tạo sessionId mới (timestamp + random)",
+        "onDateChange": "Giữ nguyên sessionId, chỉ thay đổi ngày trong seed",
+        "persistence": "sessionStorage - mất khi đóng tab"
+      }
+    },
+    "datePicker": {
+      "enabled": true,
+      "description": "Inline calendar để chọn ngày xem thực đơn",
+      "variant": "inline-calendar",
+      "position": "sidebar-left",
+      "constraints": {
+        "minDate": "today",
+        "maxDate": "+30days",
+        "allowPastDates": false
+      },
+      "responsive": {
+        "desktop": "Sidebar bên trái, sticky khi scroll",
+        "tablet": "Sidebar bên trái, nhỏ hơn",
+        "mobile": "Collapsible ở trên cùng, mặc định đóng"
+      },
+      "ui": {
+        "style": "modern-minimal",
+        "highlightToday": true,
+        "showWeekdays": true,
+        "animation": "smooth-transition"
+      }
+    },
+    "manualRefresh": {
+      "enabled": false,
+      "description": "Disabled - user reload page để random lại menu"
+    },
+    "menuImages": {
+      "enabled": true,
+      "description": "Each menu has an associated image from original source",
+      "fallback": "Hide image wrapper if image fails to load",
+      "skeleton": {
+        "enabled": true,
+        "description": "Hiển thị skeleton loading placeholder khi hình ảnh đang tải từ external source",
+        "implementation": {
+          "type": "animated-skeleton",
+          "animation": "shimmer",
+          "backgroundColor": "#e0e0e0",
+          "shimmerColor": "#f5f5f5",
+          "aspectRatio": "16/9",
+          "borderRadius": "12px"
+        },
+        "states": {
+          "loading": "Hiển thị skeleton với shimmer animation",
+          "loaded": "Fade-in hình ảnh, ẩn skeleton",
+          "error": "Ẩn image wrapper hoàn toàn"
+        },
+        "transition": {
+          "type": "fade",
+          "duration": "300ms",
+          "easing": "ease-out"
+        }
+      }
+    }
+  },
+  "i18n": {
+    "namespace": "home",
+    "defaultLocale": "vi",
+    "locales": ["vi", "en"],
+    "keyGroups": ["meta", "menu", "datepicker", "common"],
+    "dishNames": "Vietnamese with diacritics only (no English translation)",
+    "dateFormat": {
+      "vi": "DD/MM/YYYY",
+      "en": "MM/DD/YYYY"
+    },
+    "weekdayNames": {
+      "vi": ["CN", "T2", "T3", "T4", "T5", "T6", "T7"],
+      "en": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    },
+    "monthNames": {
+      "vi": ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"],
+      "en": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+    }
+  },
+  "layoutStructure": {
+    "desktop": {
+      "grid": "sidebar-content",
+      "sidebarWidth": "280px",
+      "contentWidth": "1fr",
+      "gap": "32px",
+      "maxWidth": "1200px"
+    },
+    "tablet": {
+      "grid": "sidebar-content",
+      "sidebarWidth": "240px",
+      "contentWidth": "1fr",
+      "gap": "24px"
+    },
+    "mobile": {
+      "grid": "single-column",
+      "datePickerPosition": "top-collapsible",
+      "gap": "16px"
+    }
+  },
+  "uiChanges": {
+    "shareButtonPosition": "right",
+    "shareButtonStyle": "white-bg-dark-text",
+    "singleButtonLayout": true,
+    "datePickerAdded": true
+  },
+  "dependencies": {
+    "icons": ["share-2", "calendar", "chevron-left", "chevron-right"],
+    "animations": ["fade-in", "fade-slide", "scale-subtle", "skeleton-shimmer"],
+    "externalLibs": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "header": null,
+  "footer": null,
+  "minimal": true,
+  "i18n": {
+    "defaultLocale": "vi",
+    "locales": ["vi", "en"]
+  },
+  "notes": "Simplified layout without header/footer per user request"
+}

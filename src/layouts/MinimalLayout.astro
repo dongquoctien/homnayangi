@@ -1,0 +1,137 @@
+---
+import '@styles/globals.css';
+import { ViewTransitions } from 'astro:transitions';
+import { getLocale, getAlternateLanguageLinks, useTranslations } from '@lib/i18n/utils';
+import { serializeStructuredData } from '@lib/seo/structured-data';
+
+export interface Props {
+  title: string;
+  description: string;
+  ogImage?: string;
+  canonicalUrl?: string;
+  structuredData?: Record<string, unknown> | Record<string, unknown>[];
+  noIndex?: boolean;
+}
+
+const {
+  title,
+  description,
+  ogImage = '/og-default.svg',
+  canonicalUrl,
+  structuredData,
+  noIndex = false,
+} = Astro.props;
+
+const locale = getLocale(Astro.url);
+const t = useTranslations(locale);
+const siteUrl = Astro.site?.href ?? 'https://homnayanggi.vn';
+const currentUrl = canonicalUrl || Astro.url.href;
+const fullOgImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+const currentPath = Astro.url.pathname;
+const hreflangLinks = getAlternateLanguageLinks(currentPath, siteUrl.replace(/\/$/, ''));
+const skipToContentLabel = t('common.skipToContent');
+const siteName = t('site.name');
+---
+
+<!doctype html>
+<html lang={locale === 'vi' ? 'vi-VN' : 'en-US'}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Primary Meta Tags -->
+    <title>{title}</title>
+    <meta name="title" content={title} />
+    <meta name="description" content={description} />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href={currentUrl} />
+
+    <!-- Hreflang Links -->
+    {hreflangLinks.map((link) => (
+      <link rel="alternate" hreflang={link.hreflang} href={link.href} />
+    ))}
+
+    <!-- Robots -->
+    {noIndex && <meta name="robots" content="noindex, nofollow" />}
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={currentUrl} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={fullOgImageUrl} />
+    <meta property="og:locale" content={locale === 'vi' ? 'vi_VN' : 'en_US'} />
+    <meta property="og:site_name" content={siteName} />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={currentUrl} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={fullOgImageUrl} />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+    <!-- Preconnect to external resources -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Structured Data -->
+    {
+      structuredData && (
+        <script
+          type="application/ld+json"
+          set:html={serializeStructuredData(structuredData)}
+        />
+      )
+    }
+
+    <!-- View Transitions -->
+    <ViewTransitions />
+  </head>
+  <body>
+    <a href="#main-content" class="skip-to-content">
+      {skipToContentLabel}
+    </a>
+    <main id="main-content" class="main-content">
+      <slot />
+    </main>
+
+    <style>
+      .skip-to-content {
+        position: absolute;
+        top: -40px;
+        left: 0;
+        padding: var(--spacing-2) var(--spacing-4);
+        background-color: var(--color-primary-500);
+        color: white;
+        font-weight: var(--font-medium);
+        text-decoration: none;
+        z-index: 100;
+        transition: top var(--transition-fast);
+      }
+
+      .skip-to-content:focus {
+        top: 0;
+        outline: 2px solid var(--color-primary-700);
+        outline-offset: 2px;
+      }
+
+      .main-content {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+    </style>
+  </body>
+</html>

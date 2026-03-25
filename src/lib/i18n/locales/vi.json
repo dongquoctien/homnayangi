@@ -1,0 +1,45 @@
+{
+  "site": {
+    "name": "Hôm nay ăn gì?",
+    "description": "Gợi ý thực đơn ngon mỗi ngày"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Có lỗi xảy ra",
+    "retry": "Thử lại",
+    "close": "Đóng",
+    "open": "Mở",
+    "skipToContent": "Chuyển đến nội dung chính"
+  },
+  "meta": {
+    "companyName": "Hôm nay ăn gì?",
+    "title": "Hôm nay ăn gì? | Gợi ý thực đơn mỗi ngày",
+    "description": "Ứng dụng gợi ý thực đơn giúp bạn trả lời câu hỏi 'Hôm nay ăn gì?' mỗi ngày với hàng trăm thực đơn ngon miệng."
+  },
+  "menu": {
+    "pageTitle": "Hôm nay ăn gì?",
+    "pageSubtitle": "Gợi ý thực đơn ngon mỗi ngày",
+    "menuLabel": "Thực đơn",
+    "dishesLabel": "Các món",
+    "shareButtonText": "Chia sẻ",
+    "sourceCredit": "Nguồn: suckhoedoisong.vn",
+    "linkCopied": "Đã sao chép link!"
+  },
+  "datePicker": {
+    "title": "Chọn ngày",
+    "todayLabel": "Hôm nay",
+    "selectDateTrigger": "Chọn ngày khác",
+    "previousMonth": "Tháng trước",
+    "nextMonth": "Tháng sau"
+  },
+  "share": {
+    "facebook": "Chia sẻ lên Facebook",
+    "twitter": "Chia sẻ lên Twitter",
+    "copyLink": "Sao chép liên kết"
+  },
+  "weekdays": ["CN", "T2", "T3", "T4", "T5", "T6", "T7"],
+  "months": [
+    "Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6",
+    "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"
+  ]
+}

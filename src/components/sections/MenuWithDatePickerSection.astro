@@ -1,0 +1,82 @@
+---
+import MenuWithDatePicker from '@components/islands/MenuWithDatePicker';
+import type { Menu } from '@/types/menu';
+
+interface Props {
+  menus: Menu[];
+  locale: 'vi' | 'en';
+  translations: {
+    pageTitle: string;
+    pageSubtitle: string;
+    menuLabel: string;
+    dishesLabel: string;
+    shareButtonText: string;
+    sourceCredit: string;
+    linkCopied: string;
+    datePickerTitle: string;
+    todayLabel: string;
+    selectDateTrigger: string;
+    shareFacebook: string;
+    shareTwitter: string;
+    copyLink: string;
+  };
+  weekdayNames: string[];
+  monthNames: string[];
+}
+
+const { menus, locale, translations, weekdayNames, monthNames } = Astro.props;
+
+// Prepare labels for the island component
+const labels = {
+  pageTitle: translations.pageTitle,
+  pageSubtitle: translations.pageSubtitle,
+  menuLabel: translations.menuLabel,
+  dishesLabel: translations.dishesLabel,
+  shareButtonText: translations.shareButtonText,
+  sourceCredit: translations.sourceCredit,
+  datePickerTitle: translations.datePickerTitle,
+  todayLabel: translations.todayLabel,
+  selectDateTrigger: translations.selectDateTrigger,
+  linkCopied: translations.linkCopied,
+  shareFacebook: translations.shareFacebook,
+  shareTwitter: translations.shareTwitter,
+  copyLink: translations.copyLink,
+};
+---
+
+<section
+  id="menu-with-datepicker"
+  class="menu-with-datepicker-section"
+  aria-labelledby="menu-section-title"
+>
+  <h1 id="menu-section-title" class="sr-only">{translations.pageTitle}</h1>
+
+  <MenuWithDatePicker
+    client:load
+    menus={menus}
+    locale={locale}
+    labels={labels}
+    weekdayNames={weekdayNames}
+    monthNames={monthNames}
+  />
+</section>
+
+<style>
+  .menu-with-datepicker-section {
+    width: 100%;
+    min-height: 100vh;
+  }
+
+  /* Screen reader only class */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+</style>

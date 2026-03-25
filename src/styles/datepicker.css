@@ -1,0 +1,196 @@
+/**
+ * DatePicker & MenuWithDatePicker Styles
+ * Additional utility styles for the date picker components
+ */
+
+/* Calendar animations */
+@keyframes calendar-fade-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes calendar-slide-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes day-pop {
+  0% {
+    transform: scale(0.8);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Smooth focus transitions */
+.datepicker__day:focus {
+  outline: none;
+}
+
+.datepicker__day:focus-visible {
+  outline: 2px solid var(--color-primary-500);
+  outline-offset: 2px;
+  border-radius: 10px;
+}
+
+/* Calendar entry animation */
+.datepicker__calendar {
+  animation: calendar-fade-in 0.2s ease-out;
+}
+
+/* Mobile collapse animation */
+@media (max-width: 767px) {
+  .datepicker__calendar:not(.datepicker__calendar--collapsed) {
+    animation: calendar-slide-down 0.25s ease-out;
+  }
+}
+
+/* Selected day pop effect */
+.datepicker__day--selected {
+  animation: day-pop 0.2s ease-out;
+}
+
+/* Hover state enhancements */
+.datepicker__day:not(:disabled):not(.datepicker__day--selected):hover {
+  transform: scale(1.05);
+}
+
+/* Menu display animations */
+@keyframes menu-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.98);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes dish-stagger-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-12px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Share menu animations */
+@keyframes share-menu-enter {
+  0% {
+    opacity: 0;
+    transform: translateY(8px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Toast animations */
+@keyframes toast-enter {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+@keyframes toast-exit {
+  0% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+}
+
+/* Reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  .datepicker__calendar,
+  .datepicker__day--selected,
+  .datepicker__day:hover,
+  .menu-display__card--animating,
+  .menu-display__share-menu,
+  .menu-display__toast {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .menu-display__card--animating .menu-display__dish-item {
+    animation: none !important;
+    opacity: 1 !important;
+  }
+}
+
+/* Print styles */
+@media print {
+  .datepicker__mobile-trigger,
+  .menu-display__share-container,
+  .menu-display__toast {
+    display: none !important;
+  }
+
+  .menu-with-datepicker {
+    background: white !important;
+    padding: 1rem !important;
+  }
+
+  .datepicker__calendar {
+    display: none !important;
+  }
+
+  .menu-display__card {
+    box-shadow: none !important;
+    border: 1px solid #e5e5e5 !important;
+  }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  .datepicker__day--today {
+    box-shadow: inset 0 0 0 3px currentColor;
+  }
+
+  .datepicker__day--selected {
+    background: #000 !important;
+    color: #fff !important;
+  }
+
+  .datepicker__day--disabled {
+    opacity: 0.6;
+    text-decoration: line-through;
+  }
+}
+
+/* Dark mode support (future enhancement) */
+@media (prefers-color-scheme: dark) {
+  /*
+   * Note: Dark mode styles would go here when implemented.
+   * Currently using light mode only.
+   */
+}
