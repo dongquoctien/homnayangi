@@ -12,7 +12,9 @@
       "Skill(homepage-plugin:hp-plan)",
       "Bash(node -e:*)",
       "Bash(git remote:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
